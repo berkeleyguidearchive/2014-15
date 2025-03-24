@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<courseleaf>
+
+
+
+<text>
+<![CDATA[  
+  
+  <div id="sitesearch">
+<script type="text/javascript">
+var ts = new Date().getTime();
+var _ribbiturl="/ribbit/index.cgi?format=html&page=fsinjector.rjs&ts=" + ts; 
+document.write("\x3Cscript src=" + _ribbiturl + ">\x3C/script>");
+</script>
+<noscript>JavaScript is disabled.  To view the search results, visit <a href="/ribbit/index.cgi?format=html&page=fsinjector.rjs&fullpage=true">/ribbit/index.cgi?format=html&page=fsinjector.rjs&fullpage=true="</a></noscript>
+</div>
+<script>
+try {
+	$(function() {
+		setTimeout(function() {
+				$("#fsnosearchresults").hide();
+		}, 500);
+	})
+} catch(e) {
+
+}
+</script>
+
+<div id="fsnosearchresults"></div>
+
+]]>
+</text>
+<faculty>
+<![CDATA[
+<h3>Faculty</h3><h4>Professors</h4><p class="facitem"><strong>Ronelle Alexander, <i>Professor</i>.</strong> Slavic languages & literatures, problems of orality and ethnicity, Balkan Slavic dialectology, Balkan linguistics, language contact, historical accentology, clitic phenomena, oral tradition, Parry-Lord theory of oral composition, South Slavic epic singers.<br /><a href="http://vcresearch.berkeley.edu/node/14368" target="_blank">Research Profile</a><p class="facitem"><strong>David A. Frick, <i>Professor</i>.</strong> Slavic languages & literatures.<br /><a href="http://vcresearch.berkeley.edu/node/14690" target="_blank">Research Profile</a><p class="facitem"><strong>Eric Naiman, <i>Professor</i>.</strong> Sexuality, history, comparative literature, Slavic language, ideological poetics, history of medicine, Soviet culture, the gothic novel.<br /><a href="http://vcresearch.berkeley.edu/node/15163" target="_blank">Research Profile</a><p class="facitem"><strong>Irina Paperno, <i>Professor</i>.</strong> Russian language and literature, intellectual history.<br /><a href="http://vcresearch.berkeley.edu/node/15218" target="_blank">Research Profile</a><h4>Associate Professors</h4><p class="facitem"><strong>Lyubov (Luba) Golburt, PhD, <i>Associate Professor</i>.</strong> Pushkin, Russian literature and art of the 18th and 19th centuries; Derzhavin, Turgenev; history and literature; historical novel.<br /><a href="http://vcresearch.berkeley.edu/node/14724" target="_blank">Research Profile</a><p class="facitem"><strong>Darya Kavitskaya, <i>Associate Professor</i>.</strong> <p class="facitem"><strong>Anne Nesbet, <i>Associate Professor</i>.</strong> Culture, film studies, Slavic languages, early Soviet culture, Sergei Eisenstein, silent film, Soviet film, GDR history, children's literature & Stalinism, the Soviet Union, American minority movements.<br /><a href="http://vcresearch.berkeley.edu/node/15172" target="_blank">Research Profile</a><p class="facitem"><strong>Harsha Ram, <i>Associate Professor</i>.</strong> Slavic languages and literatures, Russian and European lyric poetry and poetics (Derzhavin, Pushkin, Lermontov, Khlebnikov, Mandel'shtam), the poetics and politics of the eighteenth century and the Russian Golden Age, the Russian and European avant-garde.<br /><a href="http://vcresearch.berkeley.edu/node/15257" target="_blank">Research Profile</a><h4>Lecturers</h4><p class="facitem"><strong>Ellen R. Langer, <i>Lecturer</i>.</strong> <p class="facitem"><strong>Milutin Janjic, <i>Lecturer</i>.</strong> <p class="facitem"><strong>Anna Muza, <i>Lecturer</i>.</strong> <p class="facitem"><strong>Eva Szoke, <i>Lecturer</i>.</strong> <p class="facitem"><strong>Katarzyna Zacha, <i>Lecturer</i>.</strong> <p class="facitem"><strong>Lisa C. Little, <i>Lecturer</i>.</strong> <p class="facitem"><strong>Santoukht, I. Mikaelian, <i>Lecturer</i>.</strong> ]]>
+</faculty>
+</courseleaf>
+

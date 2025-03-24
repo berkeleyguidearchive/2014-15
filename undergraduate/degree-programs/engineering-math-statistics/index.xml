@@ -1,0 +1,756 @@
+<?xml version="1.0"?>
+<courseleaf>
+
+
+
+<text>
+<![CDATA[  
+
+  
+]]>
+</text>
+<abouttheprogramtext>
+<![CDATA[
+<h3>Bachelor of Science (BS)</h3>
+<p>The Engineering Mathematics and Statistics major offered through the Engineering Science Program offers students an opportunity to study pure and applied mathematics as essential components of modern engineering. By combining courses for pure mathematics, applied mathematics, statistics, the physical sciences, and engineering, a student may individualize a program of study, of theory, or of applications of both. It provides a broad foundation for graduate studies in theoretical branches of engineering, as well as in mathematics, and can prepare students for a career in specific sectors of industry or business.</p>
+<h3>Admission to the Major</h3>
+<p>Prospective undergraduates to the College of Engineering will apply for admission to a specific program in the College. For further information, please see the <a href="http://coe.berkeley.edu/students/prospective-students/admissions.html" target="_blank">College of Engineering's website</a>
+.</p>
+
+<p>Admission to Engineering via a Change of College application for current UC Berkeley students is highly unlikely and very competitive as there few, if any, spaces that open in the College each year to students admitted to other colleges at UC Berkeley. For further information regarding a Change of College to Engineering, please see the <a href="http://coe.berkeley.edu/students/current-undergraduates/change-of-college" target="_blank">College's website</a>
+.</p>
+
+<h3>Minor Program</h3>
+<p>There is no minor program in Engineering Mathematics and Statistics.</p>
+<h3>Other Majors offered by the Engineering Science Program</h3>
+<p><a href="/2014-15/undergraduate/degree-programs/energy-engineering/">Energy Engineering</a>
+<br/>
+<a href="/2014-15/undergraduate/degree-programs/engineering-physics/">Engineering Physics</a>
+<br/>
+<a href="/2014-15/undergraduate/degree-programs/environmental-engineering-science/">Environmental Engineering Science</a>
+</p>
+
+]]>
+</abouttheprogramtext>
+<majorrequirementstext>
+<![CDATA[
+<p>In addition to the University, campus, and college requirements, listed on the College Requirements tab, students must fulfill the below requirements specific to their major program.</p>
+<h3>General Guidelines</h3>
+<ol>
+	<li>
+	<p>All technical courses (courses in engineering, mathematics, chemistry, physics, statistics, biological sciences, and computer science) must be taken for a letter grade.</p>
+	</li>
+	<li>
+	<p>No more than one upper-division course may be used to simultaneously fulfill requirements for a student’s major and minor programs.</p>
+	</li>
+	<li>
+	<p>A minimum overall grade point average (GPA) of 2.0 is required for all work undertaken at UC Berkeley.</p>
+	</li>
+	<li>
+	<p>A minimum GPA of 2.0 is required for all technical courses taken in satisfaction of major requirements.</p>
+	</li>
+</ol>
+<p>For information regarding residence requirements and unit requirements, please see the College Requirements tab.</p>
+<p>For a detailed plan of study by year and semester, please see the Plan of Study tab.</p>
+<h3>Lower-division Major Requirements</h3>
+<table class="sc_courselist" width="100%"><colgroup><col class="codecol" /><col class="titlecol" /><col align="char" char="." class="hourscol" /></colgroup><tbody><tr class="even firstrow"><td class="codecol">MATH&#160;1A</td><td>Calculus</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">MATH&#160;1B</td><td>Calculus</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">MATH&#160;53</td><td>Multivariable Calculus</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">MATH&#160;54</td><td>Linear Algebra and Differential Equations</td><td class="hourscol">4</td></tr>
+<tr class="even"><td colspan="2"><span class="courselistcomment">Select one of the following:</span></td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left: 20px;">CHEM&#160;1A</div></td><td>General Chemistry</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left: 20px;">CHEM&#160;4A</div></td><td>General Chemistry and Quantitative Analysis</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol">PHYSICS&#160;7A</td><td>Physics for Scientists and Engineers</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">PHYSICS&#160;7B</td><td>Physics for Scientists and Engineers</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">PHYSICS&#160;7C</td><td>Physics for Scientists and Engineers</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">ENGIN&#160;7</td><td>Introduction to Computer Programming for Scientists and Engineers</td><td class="hourscol">4</td></tr>
+<tr class="orclass even"><td class="codecol orclass">or&#160;COMPSCI&#160;61A</td><td colspan="2"> The Structure and Interpretation of Computer Programs</td></tr>
+<tr class="odd"><td class="codecol">ENGIN&#160;177</td><td>Advanced Programming with MATLAB</td><td class="hourscol">3</td></tr>
+<tr class="orclass odd"><td class="codecol orclass">or&#160;COMPSCI&#160;61B</td><td colspan="2"> Data Structures</td></tr>
+<tr class="orclass odd"><td class="codecol orclass">or&#160;COMPSCI&#160;61BL</td><td colspan="2"> Data Structures and Programming Methodology</td></tr>
+<tr class="even"><td colspan="2"><span class="courselistcomment">Lower-division Technical Electives:</span></td><td class="hourscol"></td></tr>
+<tr class="odd"><td colspan="2"><div style="margin-left: 20px;"><span class="courselistcomment commentindent">Select two from the following:</span></div></td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left: 20px;">COMPSCI&#160;61A</div></td><td>The Structure and Interpretation of Computer Programs <sup>2</sup></td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left: 20px;">COMPSCI&#160;61B</div></td><td>Data Structures <sup>2</sup></td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left: 20px;">COMPSCI&#160;61BL</div></td><td>Data Structures and Programming Methodology <sup>2</sup></td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left: 20px;">COMPSCI&#160;61C</div></td><td>Machine Structures</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left: 20px;">COMPSCI&#160;61CL</div></td><td>Machine Structures (Lab-Centric)</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left: 20px;">ENGIN&#160;26<br /> &#160;&#160;&amp;&#160;ENGIN&#160;27</div></td><td>Three-Dimensional Modeling for Design<br />&#160;&#160; and Introduction to Manufacturing and Tolerancing</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left: 20px;">ENGIN&#160;28</div></td><td>Basic Engineering Design Graphics</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left: 20px;">ENGIN&#160;45</div></td><td>Properties of Materials</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left: 20px;">MATH&#160;55</div></td><td>Discrete Mathematics</td><td class="hourscol"></td></tr>
+<tr class="odd lastrow"><td class="codecol"><div style="margin-left: 20px;">MEC&#160;ENG&#160;C85</div></td><td>Introduction to Solid Mechanics</td><td class="hourscol"></td></tr>
+</tbody></table>
+
+<table border="0" width="100%" class="sc_footnotes"><tr><td valign="top" class="symcol"><sup>1</sup></td><td class="notecol"><p> <span class="sc_courseinline">CHEM&#160;4A</span> is intended for students majoring in Chemistry or a closely-related field.</p></td></tr><tr><td valign="top" class="symcol"><sup>2</sup></td><td class="notecol"><p>This course may only be used as a lower-division Technical Elective if not being used to satisfy other requirements above.</p></td></tr></table>
+<h3>Upper-division Requirements</h3>
+<p>Because of the interdisciplinary nature of this major, electives must be selected and approved in consultation with a faculty adviser.</p>
+<p>In addition to the requirements listed below, students may choose up to 6-8 units of Free Electives, in order to meet the 120 units required for graduation. Free electives can be any technical or non-technical course of the student's interest, offered by any department at UC Berkeley, with no restrictions.</p>
+<table class="sc_courselist" width="100%"><colgroup><col class="codecol" /><col class="titlecol" /><col align="char" char="." class="hourscol" /></colgroup><tbody><tr class="even firstrow"><td class="codecol">MATH&#160;110</td><td>Linear Algebra</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">MATH&#160;104</td><td>Introduction to Analysis</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">MATH&#160;105</td><td>Second Course in Analysis</td><td class="hourscol">4</td></tr>
+<tr class="orclass even"><td class="codecol orclass">or&#160;MATH&#160;185</td><td colspan="2"> Introduction to Complex Analysis</td></tr>
+<tr class="odd"><td class="codecol">MATH&#160;128A</td><td>Numerical Analysis</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">STAT&#160;134</td><td>Concepts of Probability</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td colspan="2"><span class="courselistcomment">Select three Math/Statistics Electives:</span></td><td class="hourscol"></td></tr>
+<tr class="even"><td colspan="2"><div style="margin-left: 20px;"><span class="courselistcomment commentindent">Select one course in Mathematics, one course in Statistics, and one course from either, from the following:</span></div></td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left: 20px;">MATH&#160;105</div></td><td>Second Course in Analysis</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left: 20px;">MATH&#160;113</div></td><td>Introduction to Abstract Algebra</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left: 20px;">MATH&#160;118</div></td><td>Fourier Analysis, Wavelets, and Signal Processing</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left: 20px;">MATH&#160;123</div></td><td>Ordinary Differential Equations</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left: 20px;">MATH&#160;125A</div></td><td>Mathematical Logic</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left: 20px;">MATH&#160;126</div></td><td>Introduction to Partial Differential Equations</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left: 20px;">MATH&#160;130</div></td><td>The Classical Geometries</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left: 20px;">MATH&#160;135</div></td><td>Introduction to the Theory of Sets</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left: 20px;">MATH&#160;140</div></td><td>Metric Differential Geometry</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left: 20px;">MATH&#160;142</div></td><td>Elementary Algebraic Topology</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left: 20px;">MATH&#160;170</div></td><td>Mathematical Methods for Optimization</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left: 20px;">MATH&#160;185</div></td><td>Introduction to Complex Analysis</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left: 20px;">MATH&#160;189</div></td><td>Mathematical Methods in Classical and Quantum Mechanics</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left: 20px;">ENGIN&#160;117</div></td><td>Methods of Engineering Analysis (counts as a Math Elective)</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left: 20px;">STAT&#160;135</div></td><td>Concepts of Statistics</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left: 20px;">STAT&#160;150</div></td><td>Stochastic Processes</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left: 20px;">STAT&#160;151A</div></td><td>Linear Modelling: Theory and Applications</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left: 20px;">STAT&#160;151B</div></td><td>Linear Modelling: Theory and Applications</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left: 20px;">STAT&#160;152</div></td><td>Sampling Surveys</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left: 20px;">STAT&#160;153</div></td><td>Introduction to Time Series</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left: 20px;">STAT&#160;154</div></td><td>Modern Statistical Prediction and Machine Learning</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left: 20px;">STAT&#160;157</div></td><td>Seminar on Topics in Probability and Statistics</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left: 20px;">STAT&#160;158</div></td><td>The Design and Analysis of Experiments</td><td class="hourscol"></td></tr>
+<tr class="even lastrow"><td colspan="2"><span class="courselistcomment">Upper-division Technical Electives: Select 16 units of upper-division Engineering courses, in consultation with faculty adviser</span> <sup>1, 2</sup></td><td class="hourscol"></td></tr>
+</tbody></table>
+
+<table border="0" width="100%" class="sc_footnotes"><tr><td valign="top" class="symcol"><sup>1</sup></td><td class="notecol"><p>&#160;Technical electives must include 16 units of upper-division Engineering courses, selected in consultation with the student's faculty adviser, in order to provide depth in an area of engineering with high mathematical content—typically, most of these courses will come from a single Engineering department, but courses that complement each other from different departments are also permissible.</p></td></tr><tr><td valign="top" class="symcol"><sup>2</sup></td><td class="notecol"><p> <span class="sc_courseinline">IND&#160;ENG&#160;172</span> cannot be used to fulfill this requirement.</p></td></tr></table>
+]]>
+</majorrequirementstext>
+<collegerequirementstext>
+<![CDATA[
+ <p>Students in the College of Engineering must complete 120 semester units with the following provisions: </p> <p style="margin-left:22.5pt">1.        Completion of the requirements of one Engineering<a href="http://coe.berkeley.edu/students/guide/departments" target="_blank"> major program </a> of study. </p>  <p style="margin-left:22.5pt">2.        A minimum overall grade point average of 2.000 (C average) and a minimum 2.000 grade point average in upper division technical course work required of the major. </p> <p style="margin-left:22.5pt">3.        The final 30 units must be completed in residence in the College of Engineering on the Berkeley campus in two consecutive semesters. </p> <p style="margin-left:22.5pt">4.        All technical courses (math, science &amp; engineering), required of the major or not, must be taken on a letter graded basis (unless they are only offered P/NP). </p> <p style="margin-left:22.5pt">5.        Entering freshman are allowed a maximum of eight semesters to complete their degree requirements.  Entering junior transfers are allowed a maximum of four semesters to complete their degree requirements. Summer terms are optional and do not count toward the maximum. Students are responsible for planning and satisfactorily completing all graduation requirements within the maximum allowable semesters. </p> <p><strong>Humanities and Social Science Requirement</strong><br/> To promote a rich and varied educational experience outside of the technical requirements for each major, the College of Engineering has a Humanities and Social Sciences breadth requirement, which must be completed to graduate. This requirement is built into all the Engineering programs of study. The requirement includes two approved reading and composition courses and four additional approved courses, within which a number of specific conditions must be satisfied. </p> <p style="margin-left:22.5pt">1.        Complete a minimum of six courses (3 units or more) from the approved <a href="http://coe.berkeley.edu/hssreq" target="_blank">Humanities/Social Sciences (H/SS) lists</a> . </p>  <p style="margin-left:22.5pt">2.        Two of the six courses must fulfill the<a href="/2014-15/undergraduate/colleges-schools/engineering/reading-composition-requirement/" target="_blank"> </a> Reading and Composition Requirement. These courses must be taken for a letter grade (C- or better required), and MUST be completed by no later than the end of the sophomore year (4th semester of enrollment). The first half of R&amp;C, the “A” course, must be completed by the end of the freshman year; the second half of R&amp;C, the “B “course, by no later than the end of the sophomore year. For detailed lists of courses that fulfill Reading and Composition requirements, please see the <a href="/2014-15/undergraduate/colleges-schools/engineering/reading-composition-requirement/">Reading and Composition page</a>  in this bulletin. </p>  <p style="margin-left:22.5pt">3.        The four additional courses must be chosen from the H/SS comprehensive list. These courses may be taken on a Pass/Not Passed Basis (P/NP).</p> <p style="margin-left:22.5pt">4.        At least two of the six courses must be upper division (courses numbered 100-196).</p> <p style="margin-left:22.5pt">5.        At least two courses must be from the same department and at least one of the two must be upper division. This is called the *Series requirement. AP tests can be combined with a course to complete the series requirement. For example, AP History (any) combined with an upper division History course would satisfy the series requirement</p> <p style="margin-left:22.5pt">6.        One of the six courses must satisfy the campus American Cultures Requirement. For detailed lists of courses that fulfill American Cultures requirements, please see the <a href="/2014-15/undergraduate/colleges-schools/engineering/american-cultures-requirement/">American Cultures page </a> in this bulletin. </p>  <p style="margin-left:22.5pt">7.        A maximum of two exams (Advanced Placement, International Baccalaureate, or A-Level) may be used toward completion of the H/SS requirement. <a href="http://coe.berkeley.edu/exams" target="_blank">Visit this link</a> </p>  <p style="margin-left:22.5pt">8.        No courses offered by an Engineering department (IEOR, CE, etc.) other than BIOE 100, CS C79, ENGIN 125, ENGIN 130AC, 157AC, ME 191K and ME 191AC may be used to complete H/SS requirements.</p> <p style="margin-left:22.5pt">9.        Courses may fulfill multiple categories. For example, if you complete City and Regional Planning 115 and 118AC that would satisfy the series requirement, the two upper division courses requirement and the American Cultures Requirement.</p> <p style="margin-left:22.5pt">10.     The College of Engineering (COE) uses modified versions of five of the College of Letters and Science (L&amp;S) breadth requirements lists to provide options to our students for completing the Humanities and Social Science requirement. Our requirement is different than that of L &amp; S, so the guidelines posted on the top of each L &amp; S breadth list do NOT apply to COE students.</p> <p style="margin-left:22.5pt">11.     Foreign language courses MAY be used to complete H/SS requirements. L &amp; S does not allow students to use many language courses, so their lists will not include all options open to Engineering students. For a list of language options, visit <a href="http://coe.berkeley.edu/FL" target="_blank">http://coe.berkeley.edu/FL</a> </p>  <p>*NOTE: for the Series Requirement: The purpose of the series requirement is to provide depth of knowledge in a certain area. Therefore, a two-course sequence not in the same department may be approved by petition, in cases in which there is a clear and logical connection between the courses involved. </p>
+]]>
+</collegerequirementstext>
+<sampleplanofstudytext>
+<![CDATA[
+<p>For more detailed information regarding the courses listed below (e.g., elective information, GPA requirements, etc.), please see the Major Requirements tab.</p>
+<table class="sc_plangrid"><tr class="plangridyear firstrow"><th align="right" colspan="4">Freshman</th></tr><tr class="plangridterm"><th align="right" style="width: 40%;">Fall</th><th style="width: 10%;" class="hourscol">Units</th><th align="right" style="width: 40%;">Spring</th><th style="width: 10%;" class="hourscol">Units</th></tr><tr class="even">
+<td class="codecol">Chemistry: CHEM 1A &amp; CHEM 1AL or CHEM 4A</td><td class="hourscol">4</td><td class="codecol">PHYSICS&#160;7A</td><td class="hourscol">4</td></tr><tr class="odd">
+<td class="codecol">MATH&#160;1A</td><td class="hourscol">4</td><td class="codecol">ENGIN&#160;7 or COMPSCI  61A</td><td class="hourscol">4</td></tr><tr class="even">
+<td class="codecol">Reading &amp; Composition course from List A</td><td class="hourscol">4</td><td class="codecol">MATH&#160;1B</td><td class="hourscol">4</td></tr><tr class="odd">
+<td class="codecol">Humanities/Social Sciences course</td><td class="hourscol">3-4</td><td class="codecol">Lower-division Technical Elective</td><td class="hourscol">3-4</td></tr><tr class="plangridsum"><td>&#160;</td><td class="hourscol">15-16</td><td>&#160;</td><td class="hourscol">15-16</td></tr><tr class="plangridyear"><th align="right" colspan="4">Sophomore</th></tr><tr class="plangridterm"><th align="right" style="width: 40%;">Fall</th><th style="width: 10%;" class="hourscol">Units</th><th align="right" style="width: 40%;">Spring</th><th style="width: 10%;" class="hourscol">Units</th></tr><tr class="even">
+<td class="codecol">MATH&#160;53</td><td class="hourscol">4</td><td class="codecol">MATH&#160;54</td><td class="hourscol">4</td></tr><tr class="odd">
+<td class="codecol">Lower-division Technical Elective</td><td class="hourscol">3-4</td><td class="codecol">PHYSICS&#160;7C</td><td class="hourscol">4</td></tr><tr class="even">
+<td class="codecol">PHYSICS&#160;7B</td><td class="hourscol">4</td><td class="codecol">ENGIN&#160;177, COMPSCI  61B, or COMPSCI  61BL</td><td class="hourscol">3</td></tr><tr class="odd">
+<td class="codecol">Reading &amp; Composition course from List B</td><td class="hourscol">4</td><td class="codecol">Humanities/Social Sciences course</td><td class="hourscol">3-4</td></tr><tr class="plangridsum"><td>&#160;</td><td class="hourscol">15-16</td><td>&#160;</td><td class="hourscol">14-15</td></tr><tr class="plangridyear"><th align="right" colspan="4">Junior</th></tr><tr class="plangridterm"><th align="right" style="width: 40%;">Fall</th><th style="width: 10%;" class="hourscol">Units</th><th align="right" style="width: 40%;">Spring</th><th style="width: 10%;" class="hourscol">Units</th></tr><tr class="even">
+<td class="codecol">MATH&#160;110</td><td class="hourscol">4</td><td class="codecol">MATH&#160;105 or  185</td><td class="hourscol">4</td></tr><tr class="odd">
+<td class="codecol">STAT&#160;134</td><td class="hourscol">3</td><td class="codecol">MATH&#160;128A</td><td class="hourscol">4</td></tr><tr class="even">
+<td class="codecol">Humanities/Social Science course</td><td class="hourscol">3-4</td><td class="codecol">Upper-division Technical Elective<sup>1</sup></td><td class="hourscol">4</td></tr><tr class="odd">
+<td class="codecol">MATH&#160;104</td><td class="hourscol">4</td><td class="codecol">Humanities/Social Science course</td><td class="hourscol">3-4</td></tr><tr class="plangridsum"><td>&#160;</td><td class="hourscol">14-15</td><td>&#160;</td><td class="hourscol">15-16</td></tr><tr class="plangridyear"><th align="right" colspan="4">Senior</th></tr><tr class="plangridterm"><th align="right" style="width: 40%;">Fall</th><th style="width: 10%;" class="hourscol">Units</th><th align="right" style="width: 40%;">Spring</th><th style="width: 10%;" class="hourscol">Units</th></tr><tr class="even">
+<td class="codecol">Upper-division Technical Electives<sup>1</sup></td><td class="hourscol">12</td><td class="codecol">Upper-division Technical Electives<sup>1</sup></td><td class="hourscol">12</td></tr><tr class="odd">
+<td class="codecol">Free Electives</td><td class="hourscol">3-4</td><td class="codecol">Free Electives</td><td class="hourscol">3-4</td></tr><tr class="plangridsum"><td>&#160;</td><td class="hourscol">15-16</td><td>&#160;</td><td class="hourscol">15-16</td></tr><tr class="plangridtotal lastrow"><td colspan="4">Total Units: 118-126</td></tr></table>
+<table border="0" width="100%" class="sc_footnotes"><tr><td valign="top" class="symcol"><sup>1</sup></td><td class="notecol"><p>&#160;The Technical Electives listed here include the upper-division Math/Statistics Electives; they can be taken during any of the terms for which Technical Electives are listed.</p></td></tr></table>
+]]>
+</sampleplanofstudytext>
+<coursestext>
+<![CDATA[
+<h3>Engineering Mathematics and Statistics</h3>
+<div id="sc_sccoursedescs">
+<div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=ENGIN 7" class="btn-course" role="button" aria-controls="928">
+<span class="code">ENGIN&#160;7</span> 
+<span class="title">Introduction to Computer Programming for Scientists and Engineers</span> 
+<span class="hours">4 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow">Elements of procedural and object-oriented programming. Induction, iteration, and recursion. Real functions and floating-point computations for engineering analysis. Introduction to data structures. Representative examples are drawn from mathematics, science, and engineering. The course uses the MATLAB programming language. Sponsoring departments: Civil and Environmental Engineering and Mechanical Engineering.
+</span><br />
+</p>
+<div id="928" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p class=""><strong>Prerequisites:</strong> Mathematics 1B (maybe taken concurrently)</p><p class=""><strong>Credit Restrictions:</strong> Students will receive no credit for Engineering 7 after completing Engineering W7. A deficient grade in Engineering W7 may be repeated by taking Engineering 7.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p class=""><strong>Fall and/or spring:</strong> 15 weeks - 2 hours of lecture, 1 hour of discussion, and 4 hours of laboratory per week</p><p class=""><strong>Summer:</strong> 10 weeks - 3 hours of lecture, 1.5 hours of discussion, and 6 hours of laboratory per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p class=""><strong>Subject/Course Level:</strong> Engineering/Undergraduate</p><p class=""><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p class=""><strong>Formerly known as:</strong> 77</p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=ENGIN W7" class="btn-course" role="button" aria-controls="442">
+<span class="code">ENGIN&#160;W7</span> 
+<span class="title">Introduction to Computer Programming for Scientists and Engineers</span> 
+<span class="hours">4 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow">Elements of procedural and object-oriented programming. Induction, iteration, and recursion. Real functions and floating-point computations for engineering analysis. Introduction to data structures. Representative examples are drawn from mathematics, science, and engineering. The course uses the MATLAB programming language.
+</span><br />
+</p>
+<div id="442" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p class=""><strong>Prerequisites:</strong> Mathematics 1B (may be taken concurrently)</p><p class=""><strong>Credit Restrictions:</strong> Students will receive no credit for Engineering W7 after completing Engineering 7 or 77. A deficient grade in Engineering 7 or 77 may be removed by taking Engineering W7.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p class=""><strong>Fall and/or spring:</strong> 15 weeks - 1 hour of discussion, 4 hours of laboratory, and 2 hours of lecture per week</p><p class=""><strong>Summer:</strong> 10 weeks - 6 hours of web-based lecture and 7.5 hours of web-based discussion per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of web lecture, one and one-half hours of web discussion, and six hours of web laboratory per week for ten weeks.</p>--><p class=""><strong>Online:</strong>  This is an online course.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p class=""><strong>Subject/Course Level:</strong> Engineering/Undergraduate</p><p class=""><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p class=""><strong>Instructor:</strong> Papadopoulos</p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=ENGIN 10" class="btn-course" role="button" aria-controls="763">
+<span class="code">ENGIN&#160;10</span> 
+<span class="title">Engineering Design and Analysis</span> 
+<span class="hours">3 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow overflow">This is a is an introduction to the profession of engineering and its different disciplines through a variety of individual design and analysis projects. Hands on creativity,teamwork, and effective communication are emphasized. Common lecture sessions address the essence of engineering design, the practice of engineering analysis, the societal context for engineering projects and the ethics of the engineering profession. Students develop design and analysis skills, and practice applying these skills</span><span class="deschide"> to illustrative problems drawn from various mechanical engineering topics such as material testing,aerodynamics, controls and design.
+</span><br />
+</p>
+<div id="763" class="coursedetails" aria-expanded="false">
+<div class="course-section"><p class="course-heading"><strong>Objectives & Outcomes</strong></p><p class=""><strong>Course Objectives:</strong> Develop teamwork skills.<br />Emphasize communication skills, both written and oral.<br />Enhance students critical thinking and design skills.<br />Introduce students to a broad view of engineering analysis and design.<br />Introduce students to professional ethics and the societal context of engineering practice.<br />Offer experience in hands on,creative engineering projects.<br />Provide an introduction to different fields of engineering.<br />Reinforce the importance of mathematics and science in engineering design and analysis.,The objectives of the course are to:enhance critical thinking and design skills;introduce students to a broad view of engineering analysis and design;reinforce the importance of mathematics and science in engineering design and analysis;emphasize communication skills, both written and oral;develop teamwork skills;offer experience in hands on,creative engineering projects;provide an introduction to different fields of engineering; andintroduce students to professional ethics and the societal context of engineering practice.
+</p><p class=""><strong>Student Learning Outcomes:</strong> Appreciate the importance of professional and ethical responsibility in engineering.<br/>
+Begin to understand the impact of engineering solutions in a global, economic, environmental, and societal context.<br/>
+Begin to use the techniques, skills, and engineering tools necessary for contemporary and future engineering practice.<br/>
+<br/>
+Develop early abilities identifying, formulating, and solving engineering problems.<br/>
+Gain experience in working in multidisciplinary teams.<br/>
+Obtain experience in effective communication.<br/>
+Recognize the role of mathematics and science in engineering.<br/>
+Understand the design of systems, components, and processes to meet desired needs within realistic constraints.,Through active participation in this course,students will:begin to recognize the role of mathematics and science in engineering; understand the design of systems, components, and processes to meet desired needs within realistic constraints;gain experience in working in multi-<br/>
+disciplinary teams;develop early abilities in identifying, formulating, and solving engineering problems;appreciate the importance of professional and ethical responsibility in engineering;obtain experience in effective communication;begin to understand the impact of engineering solutions in a global, economic, environmental,and societal context; and begin to use the techniques, skills, and engineering tools necessary for contemporary and future engineering practice.
+</p></div>
+
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p class=""><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture and 3 hours of laboratory per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p class=""><strong>Subject/Course Level:</strong> Engineering/Undergraduate</p><p class=""><strong>Grading/Final exam status:</strong> Letter grade. Final exam not required. </p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=ENGIN 10" class="btn-course" role="button" aria-controls="780">
+<span class="code">ENGIN&#160;10</span> 
+<span class="title">Engineering Design and Analysis</span> 
+<span class="hours">3 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow overflow">This is a is an introduction to the profession of engineering and its different disciplines through a variety of individual design and analysis projects. Hands on creativity,teamwork, and effective communication are emphasized. Common lecture sessions address the essence of engineering design, the practice of engineering analysis, the societal context for engineering projects and the ethics of the engineering profession. Students develop design and analysis skills, and practice applying these skills</span><span class="deschide"> to illustrative problems drawn from various mechanical engineering topics such as material testing,aerodynamics, controls and design.
+</span><br />
+</p>
+<div id="780" class="coursedetails" aria-expanded="false">
+<div class="course-section"><p class="course-heading"><strong>Objectives & Outcomes</strong></p><p class=""><strong>Course Objectives:</strong> Develop teamwork skills.<br />Emphasize communication skills, both written and oral.<br />Enhance students critical thinking and design skills.<br />Introduce students to a broad view of engineering analysis and design.<br />Introduce students to professional ethics and the societal context of engineering practice.<br />Offer experience in hands on,creative engineering projects.<br />Provide an introduction to different fields of engineering.<br />Reinforce the importance of mathematics and science in engineering design and analysis.,The objectives of the course are to:enhance critical thinking and design skills;introduce students to a broad view of engineering analysis and design;reinforce the importance of mathematics and science in engineering design and analysis;emphasize communication skills, both written and oral;develop teamwork skills;offer experience in hands on,creative engineering projects;provide an introduction to different fields of engineering; andintroduce students to professional ethics and the societal context of engineering practice.
+</p><p class=""><strong>Student Learning Outcomes:</strong> Appreciate the importance of professional and ethical responsibility in engineering.<br/>
+Begin to understand the impact of engineering solutions in a global, economic, environmental, and societal context.<br/>
+Begin to use the techniques, skills, and engineering tools necessary for contemporary and future engineering practice.<br/>
+<br/>
+Develop early abilities identifying, formulating, and solving engineering problems.<br/>
+Gain experience in working in multidisciplinary teams.<br/>
+Obtain experience in effective communication.<br/>
+Recognize the role of mathematics and science in engineering.<br/>
+Understand the design of systems, components, and processes to meet desired needs within realistic constraints.,Through active participation in this course,students will:begin to recognize the role of mathematics and science in engineering; understand the design of systems, components, and processes to meet desired needs within realistic constraints;gain experience in working in multi-<br/>
+disciplinary teams;develop early abilities in identifying, formulating, and solving engineering problems;appreciate the importance of professional and ethical responsibility in engineering;obtain experience in effective communication;begin to understand the impact of engineering solutions in a global, economic, environmental,and societal context; and begin to use the techniques, skills, and engineering tools necessary for contemporary and future engineering practice.
+</p></div>
+
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p class=""><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture and 3 hours of laboratory per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p class=""><strong>Subject/Course Level:</strong> Engineering/Undergraduate</p><p class=""><strong>Grading/Final exam status:</strong> Letter grade. Final exam not required. </p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=ENGIN 15" class="btn-course" role="button" aria-controls="990">
+<span class="code">ENGIN&#160;15</span> 
+<span class="title">Design Methodology</span> 
+<span class="hours">2 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow">Introduction to design methodology, problem definition, and the search for creative solutions. Social, political, legal, and ethical aspects of design solutions. Topics and discussions include the structure of engineering organizations, the product development cycle, mechanical dissection, reverse engineering, patents, failure case studies, product liability, and engineering ethics.
+</span><br />
+</p>
+<div id="990" class="coursedetails" aria-expanded="false">
+<div class="course-section"><p class="course-heading"><strong>Objectives & Outcomes</strong></p><p class=""><strong>Course Objectives:</strong> To introduce the engineering design process, its scope, and its limitations. To have students understand the responsibilities of an engineer for designs that are created.
+</p><p class=""><strong>Student Learning Outcomes:</strong> The ability to use methodical techniques to identify engineering problems and develop practical solutions.<br/>
+The ability to work effectively in a team environment.
+</p></div>
+
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p class=""><strong>Fall and/or spring:</strong> 15 weeks - 1 hour of lecture and 2 hours of laboratory per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p class=""><strong>Subject/Course Level:</strong> Engineering/Undergraduate</p><p class=""><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p class=""><strong>Instructor:</strong> Lieu</p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=ENGIN 24" class="btn-course" role="button" aria-controls="120">
+<span class="code">ENGIN&#160;24</span> 
+<span class="title">Freshman Seminar</span> 
+<span class="hours">1 Unit</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow">The Berkeley Seminar Program is designed to provide students with the opportunity to explore an intellectual topic with a faculty member in a small seminar setting. Berkeley Seminars are offered in all college departments, and topics vary from department to department and semester to semester.
+</span><br />
+</p>
+<div id="120" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p class=""><strong>Repeat rules:</strong> Course may be repeated for credit as topic varies. Course may be repeated for credit when topic changes.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p class=""><strong>Fall and/or spring:</strong> 15 weeks - 1 hour of lecture per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p class=""><strong>Subject/Course Level:</strong> Engineering/Undergraduate</p><p class=""><strong>Grading/Final exam status:</strong> The grading option will be decided by the instructor when the class is offered. Final exam required. </p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=ENGIN 25" class="btn-course" role="button" aria-controls="223">
+<span class="code">ENGIN&#160;25</span> 
+<span class="title">Visualization for Design</span> 
+<span class="hours">2 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow">Development of 3-dimensional visualization skills for engineering design. Sketching as a tool for design communication. Presentation of 3-dimensional geometry with 2-dimensional engineering drawings. This course will introduce the use of 2-dimensional CAD on computer workstations as a major graphical analysis and design tool. A group design project is required. Teamwork and effective communication are emphasized.
+</span><br />
+</p>
+<div id="223" class="coursedetails" aria-expanded="false">
+<div class="course-section"><p class="course-heading"><strong>Objectives & Outcomes</strong></p><p class=""><strong>Course Objectives:</strong> Improve 3-dimensional visualization skills; enable a student to create and understand engineering drawings; introduce 2-dimensional computer-aided geometry modeling as a visualization, design, and analysis tool; enhance critical thinking and design skills; emphasize communication skills, both written and oral; develop teamwork skills; offer experience in hands-on engineering projects; develop early abilities in identifying, formulating, and solving engineering problems; introduce students to the societal context of engineering practice.
+</p><p class=""><strong>Student Learning Outcomes:</strong> Upon completion of the course, students shall be able to communicate 3-dimensional geometry effectively using sketches; operate 2-dimensional CAD software with a high degree of skill and confidence; understand and create engineering drawings; visualize 3-dimensional geometry from a series of 2-dimensional drawings.
+</p></div>
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p class=""><strong>Credit Restrictions:</strong> Students will receive no credit for Engineering 25 after completing both Engineering 10 and 28.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p class=""><strong>Fall and/or spring:</strong> 15 weeks - 1 hour of lecture and 2 hours of laboratory per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p class=""><strong>Subject/Course Level:</strong> Engineering/Undergraduate</p><p class=""><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p class=""><strong>Instructors:</strong> Lieu, McMains</p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=ENGIN 26" class="btn-course" role="button" aria-controls="602">
+<span class="code">ENGIN&#160;26</span> 
+<span class="title">Three-Dimensional Modeling for Design</span> 
+<span class="hours">2 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow">Three-dimensional modeling for engineering design. This course will emphasize the use of CAD on computer workstations as a major graphical analysis and design tool. Students develop design skills, and practice applying these skills. A group design project is required. Hands-on creativity, teamwork, and effective communication are emphasized.
+</span><br />
+</p>
+<div id="602" class="coursedetails" aria-expanded="false">
+<div class="course-section"><p class="course-heading"><strong>Objectives & Outcomes</strong></p><p class=""><strong>Course Objectives:</strong> Introduce computer-based solid, parametric, and assembly modeling as a tool for engineering design;<br/>
+enhance critical thinking and design skills; emphasize communication skills, both written and oral; develop teamwork skills; offer experience in hands-on, creative engineering projects; reinforce the societal context of engineering practice; develop early abilities in identifying, formulating, and solving engineering problems.
+</p><p class=""><strong>Student Learning Outcomes:</strong> Upon completion of the course, students shall be able to operate 3-dimensional solid modeling software tools with a high degree of skill and confidence; specify dimensions for parts and assemblies such that they can be fabricated, and fit such that they function with the desired result; produce rapid-prototype models of parts and assemblies to demonstrate their desired functionality; understand the design of systems, components, and processes to meet desired needs within realistic constraints.
+</p></div>
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p class=""><strong>Prerequisites:</strong> None</p><p class=""><strong>Credit Restrictions:</strong> Students will receive no credit for Engineering 26 after completing Engineering 10 and 28.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p class=""><strong>Fall and/or spring:</strong> 15 weeks - 1 hour of lecture and 2 hours of laboratory per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p class=""><strong>Subject/Course Level:</strong> Engineering/Undergraduate</p><p class=""><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p class=""><strong>Instructors:</strong> Lieu, McMains, Youssefi</p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=ENGIN 27" class="btn-course" role="button" aria-controls="878">
+<span class="code">ENGIN&#160;27</span> 
+<span class="title">Introduction to Manufacturing and Tolerancing</span> 
+<span class="hours">2 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow">Geometric dimensioning and tolerancing (GD&amp;T), tolerance analysis for fabrication, fundamentals of manufacturing processes (metal cutting, welding, joining, casting, molding, and layered manufacturing).
+</span><br />
+</p>
+<div id="878" class="coursedetails" aria-expanded="false">
+<div class="course-section"><p class="course-heading"><strong>Objectives & Outcomes</strong></p><p class=""><strong>Course Objectives:</strong> Enable a student to create and understand tolerances in engineering drawings; enhance critical thinking and design skills; emphasize communication skills, both written and oral; offer hands-on experience in manufacturing; develop abilities in identifying, formulating, and solving engineering problems; introduce students to the context of engineering practice.
+</p><p class=""><strong>Student Learning Outcomes:</strong> Upon completion of the course, students shall be able to fabricate basic parts in the machine shop; understand and communicate tolerance requirements in engineering drawings using industry standard GD&amp;T; use metrology tools to evaluate if physical parts are within specified tolerances; demonstrate familiarity with manufacturing processes; and design parts that can be fabricated realistically and economically using these processes.
+</p></div>
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p class=""><strong>Prerequisites:</strong> Engineering 25 (can be taken concurrently)</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p class=""><strong>Fall and/or spring:</strong> 15 weeks - 1 hour of lecture and 3 hours of laboratory per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p class=""><strong>Subject/Course Level:</strong> Engineering/Undergraduate</p><p class=""><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p class=""><strong>Instructors:</strong> McMains, Lieu, Dornfeld, Taylor</p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=ENGIN 28" class="btn-course" role="button" aria-controls="43">
+<span class="code">ENGIN&#160;28</span> 
+<span class="title">Basic Engineering Design Graphics</span> 
+<span class="hours">3 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow">Introduction to the engineering design process and graphical communications tools used by engineers. Conceptual design of products. Tolerance analysis for fabrication. Documentation of design through engineering drawing. Development of spatial reasoning skills. Basic descriptive geometry. Parametric solid modeling and feature based design. Use of Computer-Assisted Design as a design tool.
+</span><br />
+</p>
+<div id="43" class="coursedetails" aria-expanded="false">
+
+
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p class=""><strong>Fall and/or spring:</strong> 15 weeks - 2 hours of lecture and 3 hours of laboratory per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p class=""><strong>Subject/Course Level:</strong> Engineering/Undergraduate</p><p class=""><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p class=""><strong>Instructor:</strong> Lieu</p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=ENGIN 39B" class="btn-course" role="button" aria-controls="191">
+<span class="code">ENGIN&#160;39B</span> 
+<span class="title">Freshman/Sophomore Seminar</span> 
+<span class="hours">1.5 - 4 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow">Freshman and sophomore seminars offer lower division students the opportunity to explore an intellectual topic with a faculty member and a group of peers in a small-seminar setting. These seminars are offered in all campus departments; topics vary from department to department and from semester to semester. Enrollment limits are set by the faculty, but the suggested limit is 25.
+</span><br />
+</p>
+<div id="191" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p class=""><strong>Repeat rules:</strong>  Course may be repeated for credit when topic changes.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p class=""><strong>Fall and/or spring:</strong> 15 weeks - 1.5-4 hours of seminar per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p class=""><strong>Subject/Course Level:</strong> Engineering/Undergraduate</p><p class=""><strong>Grading/Final exam status:</strong> The grading option will be decided by the instructor when the class is offered. Final exam required. </p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=ENGIN 39E" class="btn-course" role="button" aria-controls="90">
+<span class="code">ENGIN&#160;39E</span> 
+<span class="title">Freshman/Sophomore Seminar</span> 
+<span class="hours">1.5 - 4 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow">Freshman and sophomore seminars offer lower division students the opportunity to explore an intellectual topic with a faculty member and a group of peers in a small-seminar setting. These seminars are offered in all campus departments; topics vary from department to department and from semester to semester. Enrollment limits are set by the faculty, but the suggested limit is 25.
+</span><br />
+</p>
+<div id="90" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p class=""><strong>Repeat rules:</strong>  Course may be repeated for credit when topic changes.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p class=""><strong>Fall and/or spring:</strong> 15 weeks - 1.5-4 hours of seminar per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p class=""><strong>Subject/Course Level:</strong> Engineering/Undergraduate</p><p class=""><strong>Grading/Final exam status:</strong> The grading option will be decided by the instructor when the class is offered. Final exam required. </p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=ENGIN 39F" class="btn-course" role="button" aria-controls="968">
+<span class="code">ENGIN&#160;39F</span> 
+<span class="title">Freshman/Sophomore Seminar</span> 
+<span class="hours">1.5 - 4 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow">Freshman and sophomore seminars offer lower division students the opportunity to explore an intellectual topic with a faculty member and a group of peers in a small-seminar setting. These seminars are offered in all campus departments; topics vary from department to department and from semester to semester. Enrollment limits are set by the faculty, but the suggested limit is 25.
+</span><br />
+</p>
+<div id="968" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p class=""><strong>Repeat rules:</strong>  Course may be repeated for credit when topic changes.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p class=""><strong>Fall and/or spring:</strong> 15 weeks - 1.5-4 hours of seminar per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p class=""><strong>Subject/Course Level:</strong> Engineering/Undergraduate</p><p class=""><strong>Grading/Final exam status:</strong> The grading option will be decided by the instructor when the class is offered. Final exam required. </p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=ENGIN 45" class="btn-course" role="button" aria-controls="15">
+<span class="code">ENGIN&#160;45</span> 
+<span class="title">Properties of Materials</span> 
+<span class="hours">3 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow">Application of basic principles of physics and chemistry to the engineering properties of materials. Special emphasis devoted to relation between microstructure and the mechanical properties of metals, concrete, polymers, and ceramics, and the electrical properties of semiconducting materials. Sponsoring Department: Materials Science and Engineering
+</span><br />
+</p>
+<div id="15" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p class=""><strong>Prerequisites:</strong> PHYSICS&#160;7A</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p class=""><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture and 3 hours of laboratory per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p class=""><strong>Subject/Course Level:</strong> Engineering/Undergraduate</p><p class=""><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=ENGIN 47" class="btn-course" role="button" aria-controls="564">
+<span class="code">ENGIN&#160;47</span> 
+<span class="title">Supplementary Work in Lower Division Engineering</span> 
+<span class="hours">1 - 3 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow">May be taken only with permission of the Dean of the College of Engineering. Students with partial credit in a lower division engineering course may complete the work under this heading.
+</span><br />
+</p>
+<div id="564" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p class=""><strong>Prerequisites:</strong> Limited to students who must make up a fraction of a required lower division course</p><p class=""><strong>Repeat rules:</strong> Course may be repeated for credit. Course may be repeated for credit when topic changes.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p class=""><strong>Fall and/or spring:</strong> 15 weeks - 0 hours of independent study per week</p><p class=""><strong>Summer:</strong> 8 weeks - 1.5-5.5 hours of independent study per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p class=""><strong>Subject/Course Level:</strong> Engineering/Undergraduate</p><p class=""><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=ENGIN 92" class="btn-course" role="button" aria-controls="992">
+<span class="code">ENGIN&#160;92</span> 
+<span class="title">Perspectives in Engineering</span> 
+<span class="hours">1 Unit</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow">This series of lectures provides students, especially undeclared Engineering students, with information on the various engineering disciplines to guide them toward choice of major. Lecturers describe research activities, how they made their own career choices, and indicate future opportunities. Recommended for all Engineering Science students and required for Engineering undeclared students.
+</span><br />
+</p>
+<div id="992" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p class=""><strong>Repeat rules:</strong> Course may be repeated for credit. Course may be repeated for credit when topic changes.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p class=""><strong>Fall and/or spring:</strong> 15 weeks - 1 hour of lecture per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p class=""><strong>Subject/Course Level:</strong> Engineering/Undergraduate</p><p class=""><strong>Grading/Final exam status:</strong> Offered for pass/not pass grade only. Final exam not required. </p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=ENGIN 93" class="btn-course" role="button" aria-controls="414">
+<span class="code">ENGIN&#160;93</span> 
+<span class="title">Energy Engineering Seminar</span> 
+<span class="hours">1 Unit</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow">Weekly seminar with different speakers on energy-related topics. The goal is to expose students to a broad range of energy issues.
+</span><br />
+</p>
+<div id="414" class="coursedetails" aria-expanded="false">
+
+
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p class=""><strong>Fall and/or spring:</strong> 15 weeks - 1 hour of seminar per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p class=""><strong>Subject/Course Level:</strong> Engineering/Undergraduate</p><p class=""><strong>Grading/Final exam status:</strong> Offered for pass/not pass grade only. Final exam not required. </p><p class=""><strong>Instructor:</strong> Zohdi</p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=ENGIN 98" class="btn-course" role="button" aria-controls="53">
+<span class="code">ENGIN&#160;98</span> 
+<span class="title">Directed Group Studies for Lower Division Undergraduates</span> 
+<span class="hours">1 - 4 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow">Seminars for group study of selected topics, which will vary from year to year. Intended for students in the lower division.
+</span><br />
+</p>
+<div id="53" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p class=""><strong>Prerequisites:</strong> Consent of instructor</p><p class=""><strong>Repeat rules:</strong> Course may be repeated for credit. Course may be repeated for credit when topic changes.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p class=""><strong>Fall and/or spring:</strong> 15 weeks - 1-4 hours of directed group study per week</p><p class=""><strong>Summer:</strong> <br /><span style="width: 15px; display: inline-block;"></span>6 weeks - 2.5-10 hours of directed group study per week<br /><span style="width: 15px; display: inline-block;"></span>8 weeks - 1.5-7.5 hours of directed group study per week<br /><span style="width: 15px; display: inline-block;"></span>10 weeks - 1.5-6 hours of directed group study per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p class=""><strong>Subject/Course Level:</strong> Engineering/Undergraduate</p><p class=""><strong>Grading/Final exam status:</strong> Offered for pass/not pass grade only. Final exam not required. </p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=ENGIN 115" class="btn-course" role="button" aria-controls="421">
+<span class="code">ENGIN&#160;115</span> 
+<span class="title">Engineering Thermodynamics</span> 
+<span class="hours">4 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow">Fundamental laws of thermodynamics for simple substances; application to flow processes and to nonreacting mixtures; statistical thermodynamics of ideal gases and crystalline solids; chemical and materials thermodynamics; multiphase and multicomponent equilibria in reacting systems; electrochemistry. Sponsoring Departments: Materials Science and Engineering and Nuclear Engineering.
+</span><br />
+</p>
+<div id="421" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p class=""><strong>Prerequisites:</strong> PHYSICS&#160;7B, MATH&#160;54; Chemistry 1B recommended</p><p class=""><strong>Credit Restrictions:</strong> Students will receive no credit for Engineering 115 after taking Mechanical Engineering 105 or Chemical Engineering 141.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p class=""><strong>Fall and/or spring:</strong> 15 weeks - 4 hours of lecture per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p class=""><strong>Subject/Course Level:</strong> Engineering/Undergraduate</p><p class=""><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p class=""><strong>Instructors:</strong> Glaeser, Olander</p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=ENGIN 117" class="btn-course" role="button" aria-controls="112">
+<span class="code">ENGIN&#160;117</span> 
+<span class="title">Methods of Engineering Analysis</span> 
+<span class="hours">3 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow">Methods of theoretical engineering analysis; techniques for analyzing partial differential equations and the use of special functions related to engineering systems. Sponsoring Department: Mechanical Engineering.
+</span><br />
+</p>
+<div id="112" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p class=""><strong>Prerequisites:</strong> Mathematics 53, 54</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p class=""><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture and 1 hour of discussion per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p class=""><strong>Subject/Course Level:</strong> Engineering/Undergraduate</p><p class=""><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=ENGIN 120" class="btn-course" role="button" aria-controls="885">
+<span class="code">ENGIN&#160;120</span> 
+<span class="title">Principles of Engineering Economics</span> 
+<span class="hours">3 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow">Economic analysis for engineering decision making: Capital flows, effect of time and interest rate. Different methods of evaluation of alternatives. Minimum-cost life and replacement analysis. Depreciation and taxes. Uncertainty; preference under risk; decision analysis. Capital sources and their effects. Economic studies.
+</span><br />
+</p>
+<div id="885" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p class=""><strong>Prerequisites:</strong> Completion of 60 units of an approved engineering curriculum</p><p class=""><strong>Credit Restrictions:</strong> Students will receive 2 units for 120 after taking Civil Engineering 167.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p class=""><strong>Fall and/or spring:</strong> 15 weeks - 2 hours of lecture and 1 hour of discussion per week</p><p class=""><strong>Summer:</strong> 8 weeks - 4 hours of lecture and 2 hours of discussion per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p class=""><strong>Subject/Course Level:</strong> Engineering/Undergraduate</p><p class=""><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p class=""><strong>Instructor:</strong> Adler</p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=ENGIN 125" class="btn-course" role="button" aria-controls="356">
+<span class="code">ENGIN&#160;125</span> 
+<span class="title">Ethics, Engineering, and Society</span> 
+<span class="hours">3 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow overflow">How should engineers analyze and resolve the ethical issues inherent in engineering? This seminar-style course provides an introduction to how theories, concepts, and methods from the humanities and social science can be applied to ethical problems in engineering. Assignments incorporate group and independent research designed to provide students an opportunity to contribute novel findings to the emerging field of engineering ethics while building their analytical and communication skills. This</span><span class="deschide"> course cannot be used to fulfill any engineering technical requirements (units or courses).
+</span><br />
+</p>
+<div id="356" class="coursedetails" aria-expanded="false">
+
+
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p class=""><strong>Fall and/or spring:</strong> 15 weeks - 2 hours of lecture and 1 hour of discussion per week</p><p class=""><strong>Summer:</strong> <br /><span style="width: 15px; display: inline-block;"></span>6 weeks - 5 hours of lecture and 3 hours of discussion per week<br /><span style="width: 15px; display: inline-block;"></span>8 weeks - 4 hours of lecture and 2 hours of discussion per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p class=""><strong>Subject/Course Level:</strong> Engineering/Undergraduate</p><p class=""><strong>Grading/Final exam status:</strong> Letter grade. Final exam not required. </p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=ENGIN 128" class="btn-course" role="button" aria-controls="385">
+<span class="code">ENGIN&#160;128</span> 
+<span class="title">Advanced Engineering Design Graphics</span> 
+<span class="hours">3 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow">Advanced graphics tools for engineering design. Parametric solid modeling. Assembly modeling. Presentation using computer animation and multimedia techniques.
+</span><br />
+</p>
+<div id="385" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p class=""><strong>Prerequisites:</strong> 28</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p class=""><strong>Fall and/or spring:</strong> 15 weeks - 2 hours of lecture and 3 hours of laboratory per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p class=""><strong>Subject/Course Level:</strong> Engineering/Undergraduate</p><p class=""><strong>Grading/Final exam status:</strong> Letter grade. Final exam not required. </p><p class=""><strong>Instructor:</strong> Lieu</p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=ENGIN 147" class="btn-course" role="button" aria-controls="910">
+<span class="code">ENGIN&#160;147</span> 
+<span class="title">Supplementary Work in Upper Division Engineering</span> 
+<span class="hours">1 - 3 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow">May be taken only with permission of the Dean of the College of Engineering. Students with partial credit in an upper division engineering course may complete the work under this heading.
+</span><br />
+</p>
+<div id="910" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p class=""><strong>Prerequisites:</strong> Limited to students who must make up a fraction of a required upper division course</p><p class=""><strong>Repeat rules:</strong> Course may be repeated for credit. Course may be repeated for credit when topic changes.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p class=""><strong>Fall and/or spring:</strong> 15 weeks - 0 hours of independent study per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p class=""><strong>Subject/Course Level:</strong> Engineering/Undergraduate</p><p class=""><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=ENGIN 157AC" class="btn-course" role="button" aria-controls="840">
+<span class="code">ENGIN&#160;157AC</span> 
+<span class="title">Engineering, The Environment, and Society</span> 
+<span class="hours">4 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow overflow">This course engages students at the intersection of environmental justice, social justice, and engineering to explore how problems that are commonly defined in technical terms are at their roots deeply socially embedded. Through partnerships with community-based organizations, students are trained to recognize the socio-political nature of technical problems so that they may approach solutions in ways that prioritize social justice. Topics covered include environmental engineering as it relates</span><span class="deschide"> to air, water, and soil contamination; race, class, and privilege; expertise; ethics; and engaged citizenship. This course cannot be used to complete any engineering technical or unit requirements.
+</span><br />
+</p>
+<div id="840" class="coursedetails" aria-expanded="false">
+
+
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p class=""><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture and 1 hour of discussion per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p class=""><strong>Subject/Course Level:</strong> Engineering/Undergraduate</p><p class=""><strong>Grading/Final exam status:</strong> Letter grade. Alternative to final exam. </p><p class=""><strong>Also listed as:</strong> IAS&#160;157AC</p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=ENGIN 177" class="btn-course" role="button" aria-controls="714">
+<span class="code">ENGIN&#160;177</span> 
+<span class="title">Advanced Programming with MATLAB</span> 
+<span class="hours">3 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow overflow">The course builds an understanding, demonstrates engineering uses, and provides hand-on experience for object-oriented programming as well as exposes a practical knowledge of advanced features available in MATLAB. The course will begin with a brief review of basic MATLAB features and quickly move to class organization and functionality. The introduced concepts are reinforced by examining the advanced graphical features of MATLAB. The material will also include the effective use of programs written</span><span class="deschide"> in C and FORTRAN, and will cover SIMULINK, a MATLAB toolbox providing for an effective ways of model simulations. Throughout the course, the emphasis will be placed on examples and homework assignments from engineering disciplines.
+</span><br />
+</p>
+<div id="714" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p class=""><strong>Prerequisites:</strong> 7 or 77; Mathematics 53 and 54 (one of these may be taken concurrently)</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p class=""><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p class=""><strong>Subject/Course Level:</strong> Engineering/Undergraduate</p><p class=""><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p class=""><strong>Instructors:</strong> Frenklach, Packard</p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=ENGIN 194" class="btn-course" role="button" aria-controls="946">
+<span class="code">ENGIN&#160;194</span> 
+<span class="title">Undergraduate Research</span> 
+<span class="hours">3 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow">Students who have completed a satisfactory number of advanced courses may pursue original research under the direction of one of the members of the staff. Final report and presentation required.
+</span><br />
+</p>
+<div id="946" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p class=""><strong>Prerequisites:</strong> Consent of instructor and adviser, junior or senior standing</p><p class=""><strong>Repeat rules:</strong> Course may be repeated for credit, but only three units may be used toCourse may be repeated for credit, but only three units may be used to satisfy a technical elective. satisfy a technical elective. Course may be repeated for credit when topic changes.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p class=""><strong>Fall and/or spring:</strong> 15 weeks - 0 hours of independent study per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p class=""><strong>Subject/Course Level:</strong> Engineering/Undergraduate</p><p class=""><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=ENGIN 198" class="btn-course" role="button" aria-controls="217">
+<span class="code">ENGIN&#160;198</span> 
+<span class="title">Directed Group Studies for Advanced Undergraduates</span> 
+<span class="hours">1 - 4 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow">Group study of selected topics.
+</span><br />
+</p>
+<div id="217" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p class=""><strong>Prerequisites:</strong> Upper division standing, plus particular courses to be specified by instructor</p><p class=""><strong>Repeat rules:</strong> Course may be repeated for credit. Course may be repeated for credit when topic changes.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p class=""><strong>Fall and/or spring:</strong> 15 weeks - 1-4 hours of directed group study per week</p><p class=""><strong>Summer:</strong> 8 weeks - 1.5-7.5 hours of directed group study per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p class=""><strong>Subject/Course Level:</strong> Engineering/Undergraduate</p><p class=""><strong>Grading/Final exam status:</strong> Offered for pass/not pass grade only. Final exam not required. </p></div>
+</div>
+</div>
+</div></div>
+]]>
+</coursestext>
+<faculty>
+<![CDATA[
+]]>
+</faculty>
+</courseleaf>
+

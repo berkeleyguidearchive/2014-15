@@ -1,0 +1,1115 @@
+<?xml version="1.0"?>
+<courseleaf>
+
+
+
+<text>
+<![CDATA[  
+
+  
+]]>
+</text>
+<abouttheprogramtext>
+<![CDATA[
+<h3>Bachelor of Science (BS)</h3>
+<p>The joint major programs are designed for students who wish to undertake study in two areas of engineering in order to qualify for employment in either field or for positions in which competence in two fields is required. These curricula include the core courses in each of the major fields. While they require slightly increased course loads, they can be completed in four years. Both majors are shown on the student's transcript of record.</p>
+<p>For students interested in materials and devices, a double major in Electrical Engineering and Computer Sciences (EECS)/Materials Science and Engineering (MSE) can be valuable. The program combines the study of materials from a broad perspective, as taught in MSE, with the study of their applications in electronic devices and circuits, as taught in EECS.</p>
+<h3>Admission to the Joint Major</h3>
+<p>Admission directly to a joint major is closed to freshmen and junior transfer applicants. Students interested in a joint program may apply to change majors during specific times in their academic progress. Please see the <a href="http://engineering.berkeley.edu/academics/majors-minors/joint-majors" target="_blank">College of Engineering joint majors website</a>
+ for complete details.</p>
+
+]]>
+</abouttheprogramtext>
+<majorrequirementstext>
+<![CDATA[
+<p>In addition to the University, campus, and college requirements, listed on the College Requirements tab, students must fulfill the below requirements specific to their major program.</p>
+<h3>General Guidelines</h3>
+<ol>
+	<li>
+	<p>All technical courses (courses in engineering, mathematics, chemistry, physics, statistics, biological sciences, and computer science) must be taken for a letter grade.</p>
+	</li>
+	<li>
+	<p>No more than one upper-division course may be used to simultaneously fulfill requirements for a student’s major and minor programs.</p>
+	</li>
+	<li>
+	<p>A minimum overall grade point average (GPA) of 2.0 is required for all work undertaken at UC Berkeley.</p>
+	</li>
+	<li>
+	<p>A minimum GPA of 2.0 is required for all technical courses taken in satisfaction of major requirements.</p>
+	</li>
+</ol>
+<p>For information regarding residence requirements and unit requirements, please see the College Requirements tab.</p>
+<p>For a detailed plan of study by year and semester, please see the Plan of Study tab.</p>
+<h3>Lower-division Requirements</h3>
+<table class="sc_courselist" width="100%"><colgroup><col class="codecol" /><col class="titlecol" /><col align="char" char="." class="hourscol" /></colgroup><tbody><tr class="even firstrow"><td class="codecol">MATH&#160;1A</td><td>Calculus</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">MATH&#160;1B</td><td>Calculus</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">MATH&#160;53</td><td>Multivariable Calculus</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">MATH&#160;54</td><td>Linear Algebra and Differential Equations</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">CHEM&#160;1A<br /> &#160;&#160;&amp;&#160;1AL</td><td>General Chemistry<br />&#160;&#160; and General Chemistry Laboratory <sup>1</sup></td><td class="hourscol">4</td></tr>
+<tr class="orclass even"><td class="codecol orclass">or&#160;CHEM&#160;4A</td><td colspan="2"> General Chemistry and Quantitative Analysis</td></tr>
+<tr class="odd"><td class="codecol">CHEM&#160;1B</td><td>General Chemistry <sup>1</sup></td><td class="hourscol">4</td></tr>
+<tr class="orclass odd"><td class="codecol orclass">or&#160;CHEM&#160;4B</td><td colspan="2"> General Chemistry and Quantitative Analysis</td></tr>
+<tr class="even"><td class="codecol">PHYSICS&#160;7A</td><td>Physics for Scientists and Engineers</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">PHYSICS&#160;7B</td><td>Physics for Scientists and Engineers</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">PHYSICS&#160;7C</td><td>Physics for Scientists and Engineers</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">ENGIN&#160;7</td><td>Introduction to Computer Programming for Scientists and Engineers</td><td class="hourscol">4</td></tr>
+<tr class="orclass odd"><td class="codecol orclass">or&#160;COMPSCI&#160;61A</td><td colspan="2"> The Structure and Interpretation of Computer Programs</td></tr>
+<tr class="even"><td class="codecol">ENGIN&#160;45</td><td>Properties of Materials</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">EL&#160;ENG&#160;40</td><td>Introduction to Microelectronic Circuits</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">COMPSCI&#160;61B</td><td>Data Structures</td><td class="hourscol">4</td></tr>
+<tr class="orclass even"><td class="codecol orclass">or&#160;COMPSCI&#160;61BL</td><td colspan="2"> Data Structures and Programming Methodology</td></tr>
+<tr class="odd lastrow"><td class="codecol">COMPSCI&#160;61C</td><td>Machine Structures</td><td class="hourscol">4</td></tr>
+<tr class="orclass odd lastrow"><td class="codecol orclass">or&#160;COMPSCI&#160;61CL</td><td colspan="2"> Machine Structures (Lab-Centric)</td></tr>
+<tr class="orclass odd lastrow"><td class="codecol orclass">or&#160;EL&#160;ENG&#160;20</td><td colspan="2"> Structure and Interpretation of Systems and Signals</td></tr>
+</tbody></table>
+
+<table border="0" width="100%" class="sc_footnotes"><tr><td valign="top" class="symcol"><sup>1</sup></td><td class="notecol"><p> <span class="sc_courseinline">CHEM&#160;4A</span> and <span class="sc_courseinline">CHEM&#160;4B</span> are intended for students majoring in Chemistry or a closely-related field.</p></td></tr></table>
+<h3>Upper-division Requirements</h3>
+<table class="sc_courselist" width="100%"><colgroup><col class="codecol" /><col class="titlecol" /><col align="char" char="." class="hourscol" /></colgroup><tbody><tr class="even firstrow"><td class="codecol">EL&#160;ENG&#160;105</td><td>Microelectronic Devices and Circuits</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">EL&#160;ENG&#160;117</td><td>Electromagnetic Fields and Waves</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">EL&#160;ENG&#160;130</td><td>Integrated-Circuit Devices</td><td class="hourscol">4</td></tr>
+<tr class="orclass even"><td class="codecol orclass">or&#160;MAT&#160;SCI&#160;111</td><td colspan="2"> Properties of Electronic Materials</td></tr>
+<tr class="odd"><td class="codecol">EL&#160;ENG&#160;140</td><td>Linear Integrated Circuits</td><td class="hourscol">4</td></tr>
+<tr class="orclass odd"><td class="codecol orclass">or&#160;EL&#160;ENG&#160;141</td><td colspan="2"> Introduction to Digital Integrated Circuits</td></tr>
+<tr class="even"><td class="codecol">MAT&#160;SCI&#160;102</td><td>Bonding, Crystallography, and Crystal Defects</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">MAT&#160;SCI&#160;103</td><td>Phase Transformations and Kinetics</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">MAT&#160;SCI&#160;104</td><td>Materials Characterization</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">MAT&#160;SCI&#160;130</td><td>Experimental Materials Science and Design</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">PHYSICS&#160;137A</td><td>Quantum Mechanics</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">PHYSICS&#160;141A</td><td>Solid State Physics</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">STAT&#160;25</td><td>Course Not Available</td><td class="hourscol">0-4</td></tr>
+<tr class="orclass even"><td class="codecol orclass">or&#160;STAT&#160;134</td><td colspan="2"> Concepts of Probability</td></tr>
+<tr class="orclass even"><td class="codecol orclass">or&#160;EL&#160;ENG&#160;126</td><td colspan="2"> Probability and Random Processes</td></tr>
+<tr class="odd"><td class="codecol">ENGIN&#160;115</td><td>Engineering Thermodynamics</td><td class="hourscol">4</td></tr>
+<tr class="orclass odd"><td class="codecol orclass">or&#160;PHYSICS&#160;112</td><td colspan="2"> Introduction to Statistical and Thermal Physics</td></tr>
+<tr class="even"><td colspan="2"><span class="courselistcomment">Upper-division Technical Electives: Two courses</span></td><td class="hourscol"></td></tr>
+<tr class="odd"><td colspan="2"><div style="margin-left: 20px;"><span class="courselistcomment commentindent">Select one course from the MAT SCI 120 series</span></div></td><td class="hourscol"></td></tr>
+<tr class="even lastrow"><td colspan="2"><div style="margin-left: 20px;"><span class="courselistcomment commentindent">Select one of the following: COMPSCI&#160;150, EL ENG 119, or EL ENG 143</span></div></td><td class="hourscol"></td></tr>
+</tbody></table>
+
+]]>
+</majorrequirementstext>
+<collegerequirementstext>
+<![CDATA[
+ <p>Students in the College of Engineering must complete 120 semester units with the following provisions: </p> <p style="margin-left:22.5pt">1.        Completion of the requirements of one Engineering<a href="http://coe.berkeley.edu/students/guide/departments" target="_blank"> major program </a> of study. </p>  <p style="margin-left:22.5pt">2.        A minimum overall grade point average of 2.000 (C average) and a minimum 2.000 grade point average in upper division technical course work required of the major. </p> <p style="margin-left:22.5pt">3.        The final 30 units must be completed in residence in the College of Engineering on the Berkeley campus in two consecutive semesters. </p> <p style="margin-left:22.5pt">4.        All technical courses (math, science &amp; engineering), required of the major or not, must be taken on a letter graded basis (unless they are only offered P/NP). </p> <p style="margin-left:22.5pt">5.        Entering freshman are allowed a maximum of eight semesters to complete their degree requirements.  Entering junior transfers are allowed a maximum of four semesters to complete their degree requirements. Summer terms are optional and do not count toward the maximum. Students are responsible for planning and satisfactorily completing all graduation requirements within the maximum allowable semesters. </p> <p><strong>Humanities and Social Science Requirement</strong><br/> To promote a rich and varied educational experience outside of the technical requirements for each major, the College of Engineering has a Humanities and Social Sciences breadth requirement, which must be completed to graduate. This requirement is built into all the Engineering programs of study. The requirement includes two approved reading and composition courses and four additional approved courses, within which a number of specific conditions must be satisfied. </p> <p style="margin-left:22.5pt">1.        Complete a minimum of six courses (3 units or more) from the approved <a href="http://coe.berkeley.edu/hssreq" target="_blank">Humanities/Social Sciences (H/SS) lists</a> . </p>  <p style="margin-left:22.5pt">2.        Two of the six courses must fulfill the<a href="/2014-15/undergraduate/colleges-schools/engineering/reading-composition-requirement/" target="_blank"> </a> Reading and Composition Requirement. These courses must be taken for a letter grade (C- or better required), and MUST be completed by no later than the end of the sophomore year (4th semester of enrollment). The first half of R&amp;C, the “A” course, must be completed by the end of the freshman year; the second half of R&amp;C, the “B “course, by no later than the end of the sophomore year. For detailed lists of courses that fulfill Reading and Composition requirements, please see the <a href="/2014-15/undergraduate/colleges-schools/engineering/reading-composition-requirement/">Reading and Composition page</a>  in this bulletin. </p>  <p style="margin-left:22.5pt">3.        The four additional courses must be chosen from the H/SS comprehensive list. These courses may be taken on a Pass/Not Passed Basis (P/NP).</p> <p style="margin-left:22.5pt">4.        At least two of the six courses must be upper division (courses numbered 100-196).</p> <p style="margin-left:22.5pt">5.        At least two courses must be from the same department and at least one of the two must be upper division. This is called the *Series requirement. AP tests can be combined with a course to complete the series requirement. For example, AP History (any) combined with an upper division History course would satisfy the series requirement</p> <p style="margin-left:22.5pt">6.        One of the six courses must satisfy the campus American Cultures Requirement. For detailed lists of courses that fulfill American Cultures requirements, please see the <a href="/2014-15/undergraduate/colleges-schools/engineering/american-cultures-requirement/">American Cultures page </a> in this bulletin. </p>  <p style="margin-left:22.5pt">7.        A maximum of two exams (Advanced Placement, International Baccalaureate, or A-Level) may be used toward completion of the H/SS requirement. <a href="http://coe.berkeley.edu/exams" target="_blank">Visit this link</a> </p>  <p style="margin-left:22.5pt">8.        No courses offered by an Engineering department (IEOR, CE, etc.) other than BIOE 100, CS C79, ENGIN 125, ENGIN 130AC, 157AC, ME 191K and ME 191AC may be used to complete H/SS requirements.</p> <p style="margin-left:22.5pt">9.        Courses may fulfill multiple categories. For example, if you complete City and Regional Planning 115 and 118AC that would satisfy the series requirement, the two upper division courses requirement and the American Cultures Requirement.</p> <p style="margin-left:22.5pt">10.     The College of Engineering (COE) uses modified versions of five of the College of Letters and Science (L&amp;S) breadth requirements lists to provide options to our students for completing the Humanities and Social Science requirement. Our requirement is different than that of L &amp; S, so the guidelines posted on the top of each L &amp; S breadth list do NOT apply to COE students.</p> <p style="margin-left:22.5pt">11.     Foreign language courses MAY be used to complete H/SS requirements. L &amp; S does not allow students to use many language courses, so their lists will not include all options open to Engineering students. For a list of language options, visit <a href="http://coe.berkeley.edu/FL" target="_blank">http://coe.berkeley.edu/FL</a> </p>  <p>*NOTE: for the Series Requirement: The purpose of the series requirement is to provide depth of knowledge in a certain area. Therefore, a two-course sequence not in the same department may be approved by petition, in cases in which there is a clear and logical connection between the courses involved. </p>
+]]>
+</collegerequirementstext>
+<sampleplanofstudytext>
+<![CDATA[
+<p>For more detailed information regarding the courses listed below (e.g., elective information, GPA requirements, etc.), please see the Major Requirements tab.</p>
+<table class="sc_plangrid"><tr class="plangridyear firstrow"><th align="right" colspan="4">Freshman</th></tr><tr class="plangridterm"><th align="right" style="width: 40%;">Fall</th><th style="width: 10%;" class="hourscol">Units</th><th align="right" style="width: 40%;">Spring</th><th style="width: 10%;" class="hourscol">Units</th></tr><tr class="even">
+<td class="codecol">Chemistry: CHEM 1A &amp; CHEM 1AL, or CHEM 4A</td><td class="hourscol">4</td><td class="codecol">MATH&#160;1B</td><td class="hourscol">4</td></tr><tr class="odd">
+<td class="codecol">Humanities/Social Sciences course</td><td class="hourscol">3-4</td><td class="codecol">PHYSICS&#160;7A</td><td class="hourscol">4</td></tr><tr class="even">
+<td class="codecol">MATH&#160;1A</td><td class="hourscol">4</td><td class="codecol">ENGIN&#160;7</td><td class="hourscol">4</td></tr><tr class="odd">
+<td class="codecol">Reading &amp; Composition course from List A</td><td class="hourscol">4</td><td class="codecol">Optional Freshman Seminar or ENGIN 92</td><td class="hourscol">0-1</td></tr><tr class="even">
+<td class="codecol">Optional Freshman Seminar or ENGIN 92</td><td class="hourscol">0-1</td><td class="codecol">Reading &amp; Composition course List B</td><td class="hourscol">4</td></tr><tr class="plangridsum"><td>&#160;</td><td class="hourscol">15-17</td><td>&#160;</td><td class="hourscol">16-17</td></tr><tr class="plangridyear"><th align="right" colspan="4">Sophomore</th></tr><tr class="plangridterm"><th align="right" style="width: 40%;">Fall</th><th style="width: 10%;" class="hourscol">Units</th><th align="right" style="width: 40%;">Spring</th><th style="width: 10%;" class="hourscol">Units</th></tr><tr class="even">
+<td class="codecol">COMPSCI&#160;61B or  61BL</td><td class="hourscol">4</td><td class="codecol">EL&#160;ENG&#160;40</td><td class="hourscol">4</td></tr><tr class="odd">
+<td class="codecol">ENGIN&#160;45</td><td class="hourscol">3</td><td class="codecol">PHYSICS&#160;7C</td><td class="hourscol">4</td></tr><tr class="even">
+<td class="codecol">MATH&#160;53</td><td class="hourscol">4</td><td class="codecol">Humanities/Social Sciences course</td><td class="hourscol">3-4</td></tr><tr class="odd">
+<td class="codecol">PHYSICS&#160;7B</td><td class="hourscol">4</td><td class="codecol">MATH&#160;54</td><td class="hourscol">4</td></tr><tr class="plangridsum"><td>&#160;</td><td class="hourscol">15</td><td>&#160;</td><td class="hourscol">15-16</td></tr><tr class="plangridyear"><th align="right" colspan="4">Junior</th></tr><tr class="plangridterm"><th align="right" style="width: 40%;">Fall</th><th style="width: 10%;" class="hourscol">Units</th><th align="right" style="width: 40%;">Spring</th><th style="width: 10%;" class="hourscol">Units</th></tr><tr class="even">
+<td class="codecol">COMPSCI&#160;61C,  61CL, or EL ENG  20</td><td class="hourscol">4</td><td class="codecol">EL&#160;ENG&#160;105</td><td class="hourscol">4</td></tr><tr class="odd">
+<td class="codecol">MAT&#160;SCI&#160;102</td><td class="hourscol">3</td><td class="codecol">EL&#160;ENG&#160;126,   25, or STAT  134</td><td class="hourscol">3-4</td></tr><tr class="even">
+<td class="codecol">PHYSICS&#160;137A</td><td class="hourscol">4</td><td class="codecol">MAT&#160;SCI&#160;103</td><td class="hourscol">3</td></tr><tr class="odd">
+<td class="codecol">ENGIN&#160;115</td><td class="hourscol">4</td><td class="codecol">MAT&#160;SCI&#160;104</td><td class="hourscol">4</td></tr><tr class="plangridsum"><td>&#160;</td><td class="hourscol">15</td><td>&#160;</td><td class="hourscol">14-15</td></tr><tr class="plangridyear"><th align="right" colspan="4">Senior</th></tr><tr class="plangridterm"><th align="right" style="width: 40%;">Fall</th><th style="width: 10%;" class="hourscol">Units</th><th align="right" style="width: 40%;">Spring</th><th style="width: 10%;" class="hourscol">Units</th></tr><tr class="even">
+<td class="codecol">EL&#160;ENG&#160;117</td><td class="hourscol">4</td><td class="codecol">MAT&#160;SCI&#160;111</td><td class="hourscol">4</td></tr><tr class="odd">
+<td class="codecol">EL&#160;ENG&#160;140</td><td class="hourscol">4</td><td class="codecol">Technical Electives</td><td class="hourscol">6</td></tr><tr class="even">
+<td class="codecol">MAT&#160;SCI&#160;130</td><td class="hourscol">3</td><td class="codecol">Humanities/Social Sciences course</td><td class="hourscol">3-4</td></tr><tr class="odd">
+<td class="codecol">PHYSICS&#160;141A</td><td class="hourscol">4</td><td colspan=2>&#160;</td></tr><tr class="even">
+<td class="codecol">Humanities/Social Sciences course</td><td class="hourscol">3-4</td><td colspan=2>&#160;</td></tr><tr class="plangridsum"><td>&#160;</td><td class="hourscol">18-19</td><td>&#160;</td><td class="hourscol">13-14</td></tr><tr class="plangridtotal lastrow"><td colspan="4">Total Units: 121-128</td></tr></table>
+]]>
+</sampleplanofstudytext>
+<coursestext>
+<![CDATA[
+<h3>Electrical Engineering and Computer Science/Materials Science and Engineering</h3>
+<div id="sc_sccoursedescs">
+<div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=EL ENG 16A" class="btn-course" role="button" aria-controls="127">
+<span class="code">EL&#160;ENG&#160;16A</span> 
+<span class="title">Designing Information Devices and Systems I</span> 
+<span class="hours">4 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow overflow">This course and its follow-on EE16B focus on the fundamentals of designing and building modern information devices and systems that interface with the real world. The course sequence provides a comprehensive introduction to core EECS topics in circuit design, signals, and systems in an application-driven context. The courses are delivered assuming mathematical maturity and aptitude at roughly the level of having completed MATH&#160;1A-1B, and are aimed at entering students as well as non-majors seeking</span><span class="deschide"> a broad introduction to the field.
+</span><br />
+</p>
+<div id="127" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p class=""><strong>Credit Restrictions:</strong> Students will receive no credit for Electrical Engineering 16A after completing Electrical Engineering 20 or 40.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p class=""><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture, 2 hours of discussion, and 3 hours of laboratory per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p class=""><strong>Subject/Course Level:</strong> Electrical Engineering/Undergraduate</p><p class=""><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p class=""><strong>Instructors:</strong> Alon, Ayazifar, Lustig, Maharbiz, Subramanian, Tomlin, Courtade, Niknejad, Sahai</p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=EL ENG 16B" class="btn-course" role="button" aria-controls="682">
+<span class="code">EL&#160;ENG&#160;16B</span> 
+<span class="title">Designing Information Devices and Systems II</span> 
+<span class="hours">4 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow overflow">This course is a follow-on to Electrical Engineering 16A, and focuses on the fundamentals of designing and building modern information devices and systems that interface with the real world. The course sequence provides a comprehensive introduction to core EECS topics in circuit design, signals, and systems in an application-driven context. The courses are delivered assuming mathematical maturity and aptitude at roughly the level of having completed MATH&#160;1A-1B, and are aimed at entering students</span><span class="deschide"> as well as non-majors seeking a broad introduction to the field.
+</span><br />
+</p>
+<div id="682" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p class=""><strong>Prerequisites:</strong> Electrical Engineering 16A, Designing Information Devices and Systems I</p><p class=""><strong>Credit Restrictions:</strong> Students will receive no credit for Electrical Engineering 16B after completing Electrical Engineering 20 or 40.&lt;BR/&gt;</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p class=""><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture, 2 hours of discussion, and 3 hours of laboratory per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p class=""><strong>Subject/Course Level:</strong> Electrical Engineering/Undergraduate</p><p class=""><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p class=""><strong>Instructors:</strong> Alon, Ayazifar, Lustig, Maharbiz, Subramanian, Tomlin</p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=EL ENG 20" class="btn-course" role="button" aria-controls="831">
+<span class="code">EL&#160;ENG&#160;20</span> 
+<span class="title">Structure and Interpretation of Systems and Signals</span> 
+<span class="hours">4 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow">Mathematical modeling of signals and systems. Continous and discrete signals, with applications to audio, images, video, communications, and control. State-based models, beginning with automata and evolving to LTI systems. Frequency domain models for signals and frequency response for systems, and sampling of continuous-time signals. A Matlab-based laboratory is an integral part of the course.
+</span><br />
+</p>
+<div id="831" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p class=""><strong>Prerequisites:</strong> Mathematics 1B</p><p class=""><strong>Credit Restrictions:</strong> Students will receive no credit for Electrical Engineering 20N after completing Electrical Engineering 20. A deficient grade in Electrical Engineering 20 may be removed by taking Electrical Engineering 20N.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p class=""><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture, 1 hour of discussion, and 3 hours of laboratory per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p class=""><strong>Subject/Course Level:</strong> Electrical Engineering/Undergraduate</p><p class=""><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p class=""><strong>Instructor:</strong> Zakhor</p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=EL ENG 24" class="btn-course" role="button" aria-controls="136">
+<span class="code">EL&#160;ENG&#160;24</span> 
+<span class="title">Freshman Seminar</span> 
+<span class="hours">1 Unit</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow">The Freshman Seminar Program has been designed to provide new students with the opportunity to explore an intellectual topic with a faculty member in a small seminar setting. Freshman seminars are offered in all campus departments, and topics may vary from department to department and semester to semester.
+</span><br />
+</p>
+<div id="136" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p class=""><strong>Repeat rules:</strong>  Course may be repeated for credit when topic changes.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p class=""><strong>Fall and/or spring:</strong> 15 weeks - 1 hour of seminar per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p class=""><strong>Subject/Course Level:</strong> Electrical Engineering/Undergraduate</p><p class=""><strong>Grading/Final exam status:</strong> The grading option will be decided by the instructor when the class is offered. Final exam required. </p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=EL ENG 25" class="btn-course" role="button" aria-controls="516">
+<span class="code">EL&#160;ENG&#160;25</span> 
+<span class="title">What Electrical Engineers Do--Feedback from Recent Graduates</span> 
+<span class="hours">1 Unit</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow">A Berkeley Electrical Engineering and Computer Sciences degree opens the door to many opportunities, but what exactly are they? Graduation is only a few years away and it's not too early to find out. In this seminar students will hear from practicing engineers who recently graduated. What are they working on? Are they working in a team? What do they wish they had learned better? How did they find their jobs?
+</span><br />
+</p>
+<div id="516" class="coursedetails" aria-expanded="false">
+
+
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p class=""><strong>Fall and/or spring:</strong> 15 weeks - 1 hour of lecture per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p class=""><strong>Subject/Course Level:</strong> Electrical Engineering/Undergraduate</p><p class=""><strong>Grading/Final exam status:</strong> Offered for pass/not pass grade only. Final exam not required. </p><p class=""><strong>Instructor:</strong> Boser</p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=EL ENG 40" class="btn-course" role="button" aria-controls="752">
+<span class="code">EL&#160;ENG&#160;40</span> 
+<span class="title">Introduction to Microelectronic Circuits</span> 
+<span class="hours">4 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow">Fundamental circuit concepts and analysis techniques in the context of digital electronic circuits. Transient analysis of CMOS logic gates; basic integrated-circuit technology and layout.
+</span><br />
+</p>
+<div id="752" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p class=""><strong>Prerequisites:</strong> Mathematics 1B</p><p class=""><strong>Credit Restrictions:</strong> Students will receive one unit of credit for 40 taking 42 and no credit after taking 100.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p class=""><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture, 1 hour of discussion, and 3 hours of laboratory per week</p><p class=""><strong>Summer:</strong> 8 weeks - 6 hours of lecture, 2 hours of discussion, and 6 hours of laboratory per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p class=""><strong>Subject/Course Level:</strong> Electrical Engineering/Undergraduate</p><p class=""><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=EL ENG 42" class="btn-course" role="button" aria-controls="361">
+<span class="code">EL&#160;ENG&#160;42</span> 
+<span class="title">Introduction to Digital Electronics</span> 
+<span class="hours">3 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow overflow">This course serves as an introduction to the principles of electrical engineering, starting from the basic concepts of voltage and current and circuit elements of resistors, capacitors, and inductors. Circuit analysis is taught using Kirchhoff's voltage and current laws with Thevenin and Norton equivalents. Operational amplifiers with feedback are introduced as basic building blocks for amplication and filtering. Semiconductor devices including diodes and MOSFETS and their IV characteristics are</span><span class="deschide"> covered. Applications of diodes for rectification, and design of MOSFETs in common source amplifiers are taught. Digital logic gates and design using CMOS as well as simple flip-flops are introduced. Speed and scaling issues for CMOS are considered. The course includes as motivating examples designs of high level applications including logic circuits, amplifiers, power supplies, and communication links.
+</span><br />
+</p>
+<div id="361" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p class=""><strong>Prerequisites:</strong> Mathematics 1B</p><p class=""><strong>Credit Restrictions:</strong> Students will receive no credit for 42 after taking 40 or 100.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p class=""><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture and 1 hour of discussion per week</p><p class=""><strong>Summer:</strong> 8 weeks - 6 hours of lecture and 2 hours of discussion per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p class=""><strong>Subject/Course Level:</strong> Electrical Engineering/Undergraduate</p><p class=""><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=EL ENG 43" class="btn-course" role="button" aria-controls="895">
+<span class="code">EL&#160;ENG&#160;43</span> 
+<span class="title">Introductory Electronics Laboratory</span> 
+<span class="hours">1 Unit</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow">Using and understanding electronics laboratory equipment such as oscilloscope, power supplies, function generator, multimeter, curve-tracer, and RLC-meter. Includes a term project of constructing and testing a robot or other appropriate electromechanical device.
+</span><br />
+</p>
+<div id="895" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p class=""><strong>Prerequisites:</strong> 42 (may be taken concurrently) or equivalent or consent of instructor</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p class=""><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of laboratory per week</p><p class=""><strong>Summer:</strong> 8 weeks - 3.5 hours of laboratory per week</p><!--<p class=""><strong>Additional Format:</strong> Three and one-half hours of laboratory/discussion per week for eight weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p class=""><strong>Subject/Course Level:</strong> Electrical Engineering/Undergraduate</p><p class=""><strong>Grading/Final exam status:</strong> Offered for pass/not pass grade only. Final exam not required. </p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=EL ENG 97" class="btn-course" role="button" aria-controls="950">
+<span class="code">EL&#160;ENG&#160;97</span> 
+<span class="title">Field Study</span> 
+<span class="hours">1 - 4 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow">Students take part in organized individual field sponsored programs with off-campus companies or tutoring/mentoring relevant to specific aspects and applications of computer science on or off campus. Note Summer CPT or OPT students: written report required. Course does not count toward major requirements, but will be counted in the cumulative units toward graduation.
+</span><br />
+</p>
+<div id="950" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p class=""><strong>Prerequisites:</strong> Consent of instructor (see department adviser)</p><p class=""><strong>Repeat rules:</strong> Course may be repeated for credit. Course may be repeated for credit when topic changes.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p class=""><strong>Fall and/or spring:</strong> 15 weeks - 1-4 hours of fieldwork per week</p><p class=""><strong>Summer:</strong> <br /><span style="width: 15px; display: inline-block;"></span>6 weeks - 2.5-10 hours of fieldwork per week<br /><span style="width: 15px; display: inline-block;"></span>8 weeks - 2-7.5 hours of fieldwork per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p class=""><strong>Subject/Course Level:</strong> Electrical Engineering/Undergraduate</p><p class=""><strong>Grading/Final exam status:</strong> Offered for pass/not pass grade only. Final exam not required. </p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=EL ENG 98" class="btn-course" role="button" aria-controls="143">
+<span class="code">EL&#160;ENG&#160;98</span> 
+<span class="title">Directed Group Study for Undergraduates</span> 
+<span class="hours">1 - 4 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow">Group study of selected topics in electrical engineering, usually relating to new developments.
+</span><br />
+</p>
+<div id="143" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p class=""><strong>Repeat rules:</strong> Course may be repeated for credit. Course may be repeated for credit when topic changes.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p class=""><strong>Fall and/or spring:</strong> 15 weeks - 1-4 hours of directed group study per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p class=""><strong>Subject/Course Level:</strong> Electrical Engineering/Undergraduate</p><p class=""><strong>Grading/Final exam status:</strong> Offered for pass/not pass grade only. Final exam not required. </p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=EL ENG 99" class="btn-course" role="button" aria-controls="426">
+<span class="code">EL&#160;ENG&#160;99</span> 
+<span class="title">Individual Study and Research for Undergraduates</span> 
+<span class="hours">1 - 4 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow">Supervised independent study and research for students with fewer than 60 units completed.
+</span><br />
+</p>
+<div id="426" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p class=""><strong>Prerequisites:</strong> Freshman or sophomore standing and consent of instructor. Minimum GPA of 3.4 required</p><p class=""><strong>Credit Restrictions:</strong> Enrollment is restricted; see the Introduction to Courses and Curricula section of this catalog.</p><p class=""><strong>Repeat rules:</strong> Course may be repeated for credit. Course may be repeated for credit when topic changes.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p class=""><strong>Fall and/or spring:</strong> 15 weeks - 1-4 hours of independent study per week</p><p class=""><strong>Summer:</strong> <br /><span style="width: 15px; display: inline-block;"></span>6 weeks - 1-5 hours of independent study per week<br /><span style="width: 15px; display: inline-block;"></span>8 weeks - 1-4 hours of independent study per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p class=""><strong>Subject/Course Level:</strong> Electrical Engineering/Undergraduate</p><p class=""><strong>Grading/Final exam status:</strong> Offered for pass/not pass grade only. Final exam not required. </p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=EL ENG 100" class="btn-course" role="button" aria-controls="533">
+<span class="code">EL&#160;ENG&#160;100</span> 
+<span class="title">Electronic Techniques for Engineering</span> 
+<span class="hours">4 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow overflow">This course serves as an introduction to the principles of electrical engineering, starting from the basic concepts of voltage and current and circuit elements of resistors, capacitors, and inductors. Circuit analysis is taught using Kirchhoff's voltage and current laws with Thevenin and Norton equivalents. Operational amplifiers with feedback are introduced as basic building blocks for amplification and filtering. Semiconductor devices including diodes and MOSFETS and their IV characteristics are</span><span class="deschide"> covered. Applications of diodes for rectification, and design of MOSFETs in common source amplifiers are taught. Digital logic gates and design using CMOS as well as simple flip-flops are introduced. Speed and scaling issues for CMOS are considered. The course includes as motivating examples designs of high level applications including logic circuits, amplifiers, power supplies, and communication links.
+</span><br />
+</p>
+<div id="533" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p class=""><strong>Prerequisites:</strong> Mathematics 1B</p><p class=""><strong>Credit Restrictions:</strong> Students will receive one unit of credit for 100 after taking 42 and no credit after taking 40.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p class=""><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture, 1 hour of discussion, and 3 hours of laboratory per week</p><p class=""><strong>Summer:</strong> 8 weeks - 6 hours of lecture, 2 hours of discussion, and 3 hours of laboratory per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p class=""><strong>Subject/Course Level:</strong> Electrical Engineering/Undergraduate</p><p class=""><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=EL ENG 105" class="btn-course" role="button" aria-controls="894">
+<span class="code">EL&#160;ENG&#160;105</span> 
+<span class="title">Microelectronic Devices and Circuits</span> 
+<span class="hours">4 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow overflow">This course covers the fundamental circuit and device concepts needed to understand analog integrated circuits. After an overview of the basic properties of semiconductors, the p-n junction and MOS capacitors are described and the MOSFET is modeled as a large-signal device. Two port small-signal amplifiers and their realization using single stage and multistage CMOS building blocks are discussed. Sinusoidal steady-state signals are introduced and the techniques of phasor analysis are developed,</span><span class="deschide"> including impedance and the magnitude and phase response of linear circuits. The frequency responses of single and multi-stage amplifiers are analyzed. Differential amplifiers are introduced.
+</span><br />
+</p>
+<div id="894" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p class=""><strong>Prerequisites:</strong> 40</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p class=""><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture, 1 hour of discussion, and 3 hours of laboratory per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p class=""><strong>Subject/Course Level:</strong> Electrical Engineering/Undergraduate</p><p class=""><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=EL ENG C106A" class="btn-course" role="button" aria-controls="923">
+<span class="code">EL&#160;ENG&#160;C106A</span> 
+<span class="title">Introduction to Robotics</span> 
+<span class="hours">4 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow overflow">An introduction to the kinematics, dynamics, and control of robot manipulators, robotic vision, and sensing. The course covers forward and inverse kinematics of serial chain manipulators, the manipulator Jacobian, force relations, dynamics, and control. It presents elementary principles on proximity, tactile, and force sensing, vision sensors, camera calibration, stereo construction, and motion detection. The course concludes with current applications of robotics in active perception, medical robotics</span><span class="deschide">, and other areas.
+</span><br />
+</p>
+<div id="923" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p class=""><strong>Prerequisites:</strong> EE 120 or equivalent, consent of instructor</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p class=""><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture, 1 hour of discussion, and 3 hours of laboratory per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p class=""><strong>Subject/Course Level:</strong> Electrical Engineering/Undergraduate</p><p class=""><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p class=""><strong>Instructor:</strong> Bajcsy</p><p class=""><strong>Formerly known as:</strong> Electrical Engineering C125/Bioengineering C125</p><p class=""><strong>Also listed as:</strong> BIO&#160;ENG&#160;C125</p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=EL ENG C106B" class="btn-course" role="button" aria-controls="437">
+<span class="code">EL&#160;ENG&#160;C106B</span> 
+<span class="title">Robotic Manipulation and Interaction</span> 
+<span class="hours">4 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow overflow">This course is a sequel to Electrical Engineering C106A/Bioengineering C125, which covers kinematics, dynamics and control of a single robot. This course will cover dynamics and control of groups of robotic manipulators coordinating with each other and interacting with the environment. Concepts will include an introduction to grasping and the constrained manipulation, contacts and force control for interaction with the environment. We will also cover active perception guided manipulation, as well</span><span class="deschide"> as the manipulation of non-rigid objects. Throughout, we will emphasize design and human-robot interactions, and applications to applications in manufacturing, service robotics, tele-surgery, and locomotion.
+</span><br />
+</p>
+<div id="437" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p class=""><strong>Prerequisites:</strong> Electrical Engineering C106A/Bioengineering C125 or consent of the instructor</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p class=""><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture, 1 hour of discussion, and 3 hours of laboratory per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p class=""><strong>Subject/Course Level:</strong> Electrical Engineering/Undergraduate</p><p class=""><strong>Grading/Final exam status:</strong> Letter grade. Alternative to final exam. </p><p class=""><strong>Instructors:</strong> Bajcsy, Sastry</p><p class=""><strong>Also listed as:</strong> BIO&#160;ENG&#160;125B</p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=EL ENG 113" class="btn-course" role="button" aria-controls="464">
+<span class="code">EL&#160;ENG&#160;113</span> 
+<span class="title">Power Electronics</span> 
+<span class="hours">4 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow">Power conversion circuits and techniques. Characterization and design of magnetic devices including transformers, reactors, and electromagnetic machinery. Characteristics of bipolar and MOS power semiconductor devices. Applications to motor control, switching power supplies, lighting, power systems, and other areas as appropriate.
+</span><br />
+</p>
+<div id="464" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p class=""><strong>Prerequisites:</strong> 105 or consent of instructor</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p class=""><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture and 3 hours of laboratory per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p class=""><strong>Subject/Course Level:</strong> Electrical Engineering/Undergraduate</p><p class=""><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=EL ENG 117" class="btn-course" role="button" aria-controls="470">
+<span class="code">EL&#160;ENG&#160;117</span> 
+<span class="title">Electromagnetic Fields and Waves</span> 
+<span class="hours">4 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow">Review of static electric and magnetic fields and applications; Maxwell's equations; transmission lines; propagation and reflection of plane waves; introduction to guided waves, microwave networks, and radiation and antennas. Minilabs on statics, transmission lines, and waves.
+</span><br />
+</p>
+<div id="470" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p class=""><strong>Prerequisites:</strong> 40, Mathematics 53, 54, knowledge of phasor analysis (e.g. as taught in 105)</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p class=""><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture, 1 hour of discussion, and 1.5 hours of laboratory per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p class=""><strong>Subject/Course Level:</strong> Electrical Engineering/Undergraduate</p><p class=""><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p class=""><strong>Formerly known as:</strong> 117A-117B</p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=EL ENG 118" class="btn-course" role="button" aria-controls="628">
+<span class="code">EL&#160;ENG&#160;118</span> 
+<span class="title">Introduction to Optical Engineering</span> 
+<span class="hours">3 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow">Fundamental principles of optical systems. Geometrical optics and aberration theory. Stops and apertures, prisms, and mirrors. Diffraction and interference. Optical materials and coatings. Radiometry and photometry. Basic optical devices and the human eye. The design of optical systems. Lasers, fiber optics, and holography.
+</span><br />
+</p>
+<div id="628" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p class=""><strong>Credit Restrictions:</strong> Students will receive no credit for Electrical Engineering 118 after taking Electrical Engineering 218A. A deficient grade in Electrical Engineering 119 may be removed by taking Electrical Engineering 118.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p class=""><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture and 1 hour of discussion per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p class=""><strong>Subject/Course Level:</strong> Electrical Engineering/Undergraduate</p><p class=""><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p class=""><strong>Instructor:</strong> Waller</p><p class=""><strong>Formerly known as:</strong> Electrical Engineering 119</p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=EL ENG 120" class="btn-course" role="button" aria-controls="111">
+<span class="code">EL&#160;ENG&#160;120</span> 
+<span class="title">Signals and Systems</span> 
+<span class="hours">4 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow">Continuous and discrete-time transform analysis techniques with illustrative applications. Linear and time-invariant systems, transfer functions. Fourier series, Fourier transform, Laplace and Z-transforms. Sampling and reconstruction. Solution of differential and difference equations using transforms. Frequency response, Bode plots, stability analysis. Illustrated by analysis of communication systems and feedback control systems.
+</span><br />
+</p>
+<div id="111" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p class=""><strong>Prerequisites:</strong> 20N, Mathematics 53, 54</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p class=""><strong>Fall and/or spring:</strong> 15 weeks - 4 hours of lecture and 1 hour of recitation per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p class=""><strong>Subject/Course Level:</strong> Electrical Engineering/Undergraduate</p><p class=""><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=EL ENG 121" class="btn-course" role="button" aria-controls="926">
+<span class="code">EL&#160;ENG&#160;121</span> 
+<span class="title">Introduction to Digital Communication Systems</span> 
+<span class="hours">4 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow">Introduction to the basic principles of the design and analysis of modern digital communication systems. Topics include source coding, channel coding, baseband and passband modulation techniques, receiver design, and channel equalization. Applications to design of digital telephone modems, compact disks, and digital wireless communication systems. Concepts illustrated by a sequence of MATLAB exercises.
+</span><br />
+</p>
+<div id="926" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p class=""><strong>Prerequisites:</strong> 120, 126</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p class=""><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture and 1 hour of discussion per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p class=""><strong>Subject/Course Level:</strong> Electrical Engineering/Undergraduate</p><p class=""><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=EL ENG 122" class="btn-course" role="button" aria-controls="698">
+<span class="code">EL&#160;ENG&#160;122</span> 
+<span class="title">Introduction to Communication Networks</span> 
+<span class="hours">4 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow">This course focuses on the fundamentals of the wired and wireless communication networks. The course covers both the architectural principles for making these networks scalable and robust, as well as the key techniques essential for analyzing and designing them. The topics include graph theory, Markov chains, queuing, optimization techniques, the physical and link layers, switching, transport, cellular networks and Wi-Fi.
+</span><br />
+</p>
+<div id="698" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p class=""><strong>Prerequisites:</strong> Computer Science 70. Computer Science 70</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p class=""><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture and 1 hour of discussion per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p class=""><strong>Subject/Course Level:</strong> Electrical Engineering/Undergraduate</p><p class=""><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=EL ENG 123" class="btn-course" role="button" aria-controls="423">
+<span class="code">EL&#160;ENG&#160;123</span> 
+<span class="title">Digital Signal Processing</span> 
+<span class="hours">4 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow">Discrete time signals and systems: Fourier and Z transforms, DFT, 2-dimensional versions. Digital signal processing topics: flow graphs, realizations, FFT, chirp-Z algorithms, Hilbert transform relations, quantization effects, linear prediction. Digital filter design methods: windowing, frequency sampling, S-to-Z methods, frequency-transformation methods, optimization methods, 2-dimensional filter design.
+</span><br />
+</p>
+<div id="423" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p class=""><strong>Prerequisites:</strong> 120</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p class=""><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture, 1 hour of discussion, and 1 hour of laboratory per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p class=""><strong>Subject/Course Level:</strong> Electrical Engineering/Undergraduate</p><p class=""><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=EL ENG 126" class="btn-course" role="button" aria-controls="480">
+<span class="code">EL&#160;ENG&#160;126</span> 
+<span class="title">Probability and Random Processes</span> 
+<span class="hours">4 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow">This course covers the fundamentals of probability and random processes useful in fields such as networks, communication, signal processing, and control. Sample space, events, probability law. Conditional probability. Independence. Random variables. Distribution, density functions. Random vectors. Law of large numbers. Central limit theorem. Estimation and detection. Markov chains.
+</span><br />
+</p>
+<div id="480" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p class=""><strong>Prerequisites:</strong> 20</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p class=""><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture and 1 hour of discussion per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p class=""><strong>Subject/Course Level:</strong> Electrical Engineering/Undergraduate</p><p class=""><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=EL ENG 127" class="btn-course" role="button" aria-controls="316">
+<span class="code">EL&#160;ENG&#160;127</span> 
+<span class="title">Optimization Models in Engineering</span> 
+<span class="hours">4 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow">This course offers an introduction to optimization models and their applications, ranging from machine learning and statistics to decision-making and control, with emphasis on numerically tractable problems, such as linear or constrained least-squares optimization.
+</span><br />
+</p>
+<div id="316" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p class=""><strong>Prerequisites:</strong> MATH&#160;54 or equivalent or consent of instructor</p><p class=""><strong>Credit Restrictions:</strong> Students will receive no credit for Electrical Engineering 127 after taking Electrical Engineering 227A.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p class=""><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture and 1 hour of discussion per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p class=""><strong>Subject/Course Level:</strong> Electrical Engineering/Undergraduate</p><p class=""><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p class=""><strong>Instructor:</strong> El Ghaoui</p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=EL ENG C128" class="btn-course" role="button" aria-controls="678">
+<span class="code">EL&#160;ENG&#160;C128</span> 
+<span class="title">Feedback Control Systems</span> 
+<span class="hours">4 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow">Analysis and synthesis of linear feedback control systems in transform and time domains. Control system design by root locus, frequency response, and state space methods. Applications to electro-mechanical and mechatronics systems.
+</span><br />
+</p>
+<div id="678" class="coursedetails" aria-expanded="false">
+
+
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p class=""><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture, 1 hour of discussion, and 3 hours of laboratory per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p class=""><strong>Subject/Course Level:</strong> Electrical Engineering/Undergraduate</p><p class=""><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p class=""><strong>Also listed as:</strong> MEC&#160;ENG&#160;C134</p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=EL ENG 129" class="btn-course" role="button" aria-controls="467">
+<span class="code">EL&#160;ENG&#160;129</span> 
+<span class="title">Neural and Nonlinear Information Processing</span> 
+<span class="hours">3 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow">Principles of massively parallel real-time computation, optimization, and information processing via nonlinear dynamics and analog VLSI neural networks, applications selected from image processing, pattern recognition, feature extraction, motion detection, data compression, secure communication, bionic eye, auto waves, and Turing patterns.
+</span><br />
+</p>
+<div id="467" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p class=""><strong>Prerequisites:</strong> 120 or consent of instructor</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p class=""><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p class=""><strong>Subject/Course Level:</strong> Electrical Engineering/Undergraduate</p><p class=""><strong>Grading/Final exam status:</strong> Letter grade. Final exam not required. </p><p class=""><strong>Instructor:</strong> Chua</p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=EL ENG 130" class="btn-course" role="button" aria-controls="811">
+<span class="code">EL&#160;ENG&#160;130</span> 
+<span class="title">Integrated-Circuit Devices</span> 
+<span class="hours">4 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow">Overview of electronic properties of semiconductor. Metal-semiconductor contacts, pn junctions, bipolar transistors, and MOS field-effect transistors. Properties that are significant to device operation for integrated circuits. Silicon device fabrication technology.
+</span><br />
+</p>
+<div id="811" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p class=""><strong>Prerequisites:</strong> 40 or 100</p><p class=""><strong>Credit Restrictions:</strong> Students will receive no credit for El Eng 130 after taking El Eng 230A.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p class=""><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture and 1 hour of discussion per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p class=""><strong>Subject/Course Level:</strong> Electrical Engineering/Undergraduate</p><p class=""><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=EL ENG 134" class="btn-course" role="button" aria-controls="323">
+<span class="code">EL&#160;ENG&#160;134</span> 
+<span class="title">Fundamentals of Photovoltaic Devices</span> 
+<span class="hours">4 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow">This course is designed to give an introduction to, and overview of, the fundamentals of photovoltaic devices. Students will learn how solar cells work, understand the concepts and models of solar cell device physics, and formulate and solve relevant physical problems related to photovoltaic devices. Monocrystalline, thin film and third generation solar cells will be discussed and analyzed. Light management and economic considerations in a solar cell system will also be covered.
+</span><br />
+</p>
+<div id="323" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p class=""><strong>Prerequisites:</strong> 40 or 100 or Engineering 45</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p class=""><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture and 1 hour of discussion per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p class=""><strong>Subject/Course Level:</strong> Electrical Engineering/Undergraduate</p><p class=""><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p class=""><strong>Instructor:</strong> Arias</p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=EL ENG 137A" class="btn-course" role="button" aria-controls="287">
+<span class="code">EL&#160;ENG&#160;137A</span> 
+<span class="title">Introduction to Electric Power Systems</span> 
+<span class="hours">4 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow">Overview of conventional electric power conversion and delivery, emphasizing a systemic understanding of the electric grid with primary focus at the transmission level, aimed toward recognizing needs and opportunities for technological innovation. Topics include aspects of a.c. system design, electric generators, components of transmission and distribution systems, power flow analysis, system planning and operation, performance measures, and limitations of legacy technologies.
+</span><br />
+</p>
+<div id="287" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p class=""><strong>Prerequisites:</strong> PHYSICS&#160;7B; Electrical Engineering 40, 100, or Engineering 45; or consent of instructor</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p class=""><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture and 1 hour of discussion per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p class=""><strong>Subject/Course Level:</strong> Electrical Engineering/Undergraduate</p><p class=""><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p class=""><strong>Instructor:</strong> von Meier</p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=EL ENG 137B" class="btn-course" role="button" aria-controls="633">
+<span class="code">EL&#160;ENG&#160;137B</span> 
+<span class="title">Introduction to Electric Power Systems</span> 
+<span class="hours">4 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow">Overview of recent and potential future evolution of electric power systems with focus on new and emerging technologies for power conversion and delivery, primarily at the distribution level. Topics include power electronics applications, solar and wind generation, distribution system design and operation, electric energy storage, information management and communications, demand response, and microgrids.
+</span><br />
+</p>
+<div id="633" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p class=""><strong>Prerequisites:</strong> Electrical Engineering 137A or consent of instructor</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p class=""><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture and 1 hour of discussion per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p class=""><strong>Subject/Course Level:</strong> Electrical Engineering/Undergraduate</p><p class=""><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p class=""><strong>Instructor:</strong> von Meier</p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=EL ENG 140" class="btn-course" role="button" aria-controls="303">
+<span class="code">EL&#160;ENG&#160;140</span> 
+<span class="title">Linear Integrated Circuits</span> 
+<span class="hours">4 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow ">Single and multiple stage transistor amplifiers. Operational amplifiers. Feedback amplifiers, 2-port formulation, source, load, and feedback network loading. Frequency response of cascaded amplifiers, gain-bandwidth exchange, compensation, dominant pole techniques, root locus. Supply and temperature independent biasing and references. Selected applications of analog circuits such as analog-to-digital converters, switched capacitor filters, and comparators. Hardware laboratory and design project.</span><span class="deschide">
+</span><br />
+</p>
+<div id="303" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p class=""><strong>Prerequisites:</strong> Electrical Engineering 105</p><p class=""><strong>Credit Restrictions:</strong> Students will receive no credit for El Eng 140 after taking El Eng 240A.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p class=""><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture, 1 hour of discussion, and 3 hours of laboratory per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p class=""><strong>Subject/Course Level:</strong> Electrical Engineering/Undergraduate</p><p class=""><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p class=""><strong>Instructors:</strong> Alon, Sanders</p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=EL ENG 141" class="btn-course" role="button" aria-controls="941">
+<span class="code">EL&#160;ENG&#160;141</span> 
+<span class="title">Introduction to Digital Integrated Circuits</span> 
+<span class="hours">4 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow">CMOS devices and deep sub-micron manufacturing technology. CMOS inverters and complex gates. Modeling of interconnect wires. Optimization of designs with respect to a number of metrics: cost, reliability, performance, and power dissipation. Sequential circuits, timing considerations, and clocking approaches. Design of large system blocks, including arithmetic, interconnect, memories, and programmable logic arrays. Introduction to design methodologies, including hands-on experience.
+</span><br />
+</p>
+<div id="941" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p class=""><strong>Prerequisites:</strong> Electrical Engineering 40; Electrical Engineering 105 and Computer Science 150 recommended</p><p class=""><strong>Credit Restrictions:</strong> Students will receive no credit for Electrical Engineering 141 after taking Electrical Engineering 241A.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p class=""><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture, 1 hour of discussion, and 3 hours of laboratory per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p class=""><strong>Subject/Course Level:</strong> Electrical Engineering/Undergraduate</p><p class=""><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p class=""><strong>Instructors:</strong> Alon, Rabaey</p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=EL ENG 142" class="btn-course" role="button" aria-controls="919">
+<span class="code">EL&#160;ENG&#160;142</span> 
+<span class="title">Integrated Circuits for Communications</span> 
+<span class="hours">4 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow">Analysis and design of electronic circuits for communication systems, with an emphasis on integrated circuits for wireless communication systems. Analysis of noise and distortion in amplifiers with application to radio receiver design. Power amplifier design with application to wireless radio transmitters. Radio-frequency mixers, oscillators, phase-locked loops, modulators, and demodulators.
+</span><br />
+</p>
+<div id="919" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p class=""><strong>Prerequisites:</strong> EL&#160;ENG&#160;20 and El Eng 140</p><p class=""><strong>Credit Restrictions:</strong> Students will receive no credit for El Eng 142 after taking El Eng 242A.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p class=""><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture, 1 hour of discussion, and 3 hours of laboratory per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p class=""><strong>Subject/Course Level:</strong> Electrical Engineering/Undergraduate</p><p class=""><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=EL ENG 143" class="btn-course" role="button" aria-controls="445">
+<span class="code">EL&#160;ENG&#160;143</span> 
+<span class="title">Microfabrication Technology</span> 
+<span class="hours">4 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow">Integrated circuit device fabrication and surface micromachining technology. Thermal oxidation, ion implantation, impurity diffusion, film deposition, expitaxy, lithography, etching, contacts and interconnections, and process integration issues. Device design and mask layout, relation between physical structure and electrical/mechanical performance. MOS transistors and poly-Si surface microstructures will be fabricated in the laboratory and evaluated.
+</span><br />
+</p>
+<div id="445" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p class=""><strong>Prerequisites:</strong> 40 and PHYSICS&#160;7B</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p class=""><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture and 3 hours of laboratory per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p class=""><strong>Subject/Course Level:</strong> Electrical Engineering/Undergraduate</p><p class=""><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=EL ENG 144" class="btn-course" role="button" aria-controls="752">
+<span class="code">EL&#160;ENG&#160;144</span> 
+<span class="title">Fundamental Algorithms for Systems Modeling, Analysis, and Optimization</span> 
+<span class="hours">4 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow overflow">The modeling, analysis, and optimization of complex systems requires a range of algorithms and design software. This course reviews the fundamental techniques underlying the design methodology for complex systems, using integrated circuit design as example. Topics include design flows, discrete and continuous models and algorithms, and strategies for implementing algorithms efficiently and correctly in software. Laboratory assignments and a class project will expose students to state-of-the-art</span><span class="deschide"> tools.
+</span><br />
+</p>
+<div id="752" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p class=""><strong>Prerequisites:</strong> 20; Computer Science 70 or consent of instructor</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p class=""><strong>Fall and/or spring:</strong> 15 weeks - 4 hours of lecture per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p class=""><strong>Subject/Course Level:</strong> Electrical Engineering/Undergraduate</p><p class=""><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p class=""><strong>Instructors:</strong> Keutzer, Lee, Roychowdhury, Seshia</p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=EL ENG C145B" class="btn-course" role="button" aria-controls="581">
+<span class="code">EL&#160;ENG&#160;C145B</span> 
+<span class="title">Medical Imaging Signals and Systems</span> 
+<span class="hours">4 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow overflow">Biomedical imaging is a clinically important application of engineering, applied mathematics, physics, and medicine. In this course, we apply linear systems theory and basic physics to analyze X-ray imaging, computerized tomography, nuclear medicine, and MRI. We cover the basic physics and instrumentation that characterizes medical image as an ideal perfect-resolution image blurred by an impulse response. This material could prepare the student for a career in designing new medical imaging systems</span><span class="deschide"> that reliably detect small tumors or infarcts.
+</span><br />
+</p>
+<div id="581" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p class=""><strong>Prerequisites:</strong> Electrical Engineering 20 and Engineering 7 or equivalent; Knowledge of Matlab or linear algebra assumed</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p class=""><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture and 1 hour of discussion per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p class=""><strong>Subject/Course Level:</strong> Electrical Engineering/Undergraduate</p><p class=""><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p class=""><strong>Instructor:</strong> Conolly</p><p class=""><strong>Also listed as:</strong> BIO&#160;ENG&#160;C165</p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=EL ENG C145L" class="btn-course" role="button" aria-controls="713">
+<span class="code">EL&#160;ENG&#160;C145L</span> 
+<span class="title">Introductory Electronic Transducers Laboratory</span> 
+<span class="hours">3 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow overflow">Laboratory exercises exploring a variety of electronic transducers for measuring physical quantities such as temperature, force, displacement, sound, light, ionic potential; the use of circuits for low-level differential amplification and analog signal processing; and the use of microcomputers for digital sampling and display. Lectures cover principles explored in the laboratory exercises; construction, response and signal to noise of electronic transducers and actuators; and design of circuits</span><span class="deschide"> for sensing and controlling physical quantities.
+</span><br />
+</p>
+<div id="713" class="coursedetails" aria-expanded="false">
+
+
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p class=""><strong>Fall and/or spring:</strong> 15 weeks - 2 hours of lecture and 3 hours of laboratory per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p class=""><strong>Subject/Course Level:</strong> Electrical Engineering/Undergraduate</p><p class=""><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p class=""><strong>Instructor:</strong> Derenzo</p><p class=""><strong>Also listed as:</strong> BIO&#160;ENG&#160;C145L</p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=EL ENG C145M" class="btn-course" role="button" aria-controls="11">
+<span class="code">EL&#160;ENG&#160;C145M</span> 
+<span class="title">Introductory Microcomputer Interfacing Laboratory</span> 
+<span class="hours">3 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow overflow">Laboratory exercises constructing basic interfacing circuits and writing 20-100 line C programs for data acquisition, storage, analysis, display, and control. Use of the IBM PC with microprogrammable digital counter/timer, parallel I/O port. Circuit components include anti-aliasing filters, the S/H amplifier, A/D and D/A converters. Exercises include effects of aliasing in periodic sampling, fast Fourier transforms of basic waveforms, the use of the Hanning filter for leakage reduction, Fourier</span><span class="deschide"> analysis of the human voice, digital filters, and control using Fourier deconvolution. Lectures cover principles explored in the lab exercises and design of microcomputer-based systems for data acquisitions, analysis and control.
+</span><br />
+</p>
+<div id="11" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p class=""><strong>Prerequisites:</strong> 40, COMPSCI&#160;61B or a working knowledge of ANSI C programming or consent of instructor</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p class=""><strong>Fall and/or spring:</strong> 15 weeks - 2 hours of lecture and 3 hours of laboratory per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p class=""><strong>Subject/Course Level:</strong> Electrical Engineering/Undergraduate</p><p class=""><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p class=""><strong>Instructor:</strong> Derenzo</p><p class=""><strong>Also listed as:</strong> BIO&#160;ENG&#160;C145M</p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=EL ENG C145O" class="btn-course" role="button" aria-controls="82">
+<span class="code">EL&#160;ENG&#160;C145O</span> 
+<span class="title">Laboratory in the Mechanics of Organisms</span> 
+<span class="hours">3 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow overflow">Introduction to laboratory and field study of the biomechanics of animals and plants using fundamental biomechanical techniques and equipment. Course has a series of rotations involving students in experiments demonstrating how solid and fluid mechanics can be used to discover the way in which diverse organisms move and interact with their physical environment. The laboratories emphasize sampling methodology, experimental design, and statistical interpretation of results. Latter third of course</span><span class="deschide"> devoted to independent research projects. Written reports and class presentation of project results are required.
+</span><br />
+</p>
+<div id="82" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p class=""><strong>Prerequisites:</strong> Integrative Biology 135 or consent of instructor; for Electrical Engineering and Computer Science students, Electrical Engineering 105, 120 or Computer Science 184</p><p class=""><strong>Credit Restrictions:</strong> Students will receive no credit for C135L after taking 135L.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p class=""><strong>Fall and/or spring:</strong> 15 weeks - 6 hours of laboratory, 1 hour of discussion, and 1 hour of fieldwork per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p class=""><strong>Subject/Course Level:</strong> Electrical Engineering/Undergraduate</p><p class=""><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p class=""><strong>Formerly known as:</strong> Integrative Biology 135L</p><p class=""><strong>Also listed as:</strong> BIO&#160;ENG&#160;C136L/INTEGBI&#160;C135L</p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=EL ENG 146L" class="btn-course" role="button" aria-controls="364">
+<span class="code">EL&#160;ENG&#160;146L</span> 
+<span class="title">Application Specific Integrated Circuits Laboratory</span> 
+<span class="hours">2 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow overflow">This is a lab course that covers the design of modern Application-Specific Integrated Circuits (ASICs). The labs lay the foundation of modern digital design by first setting-up the scripting and hardware description language base for specification of digital systems and interactions with tool flows. Software testing of digital designs is covered leading into a set of labs that cover the design flow. Digital synthesis, floorplanning, placement and routing are covered, as well as tools to evaluate</span><span class="deschide"> design timing and power. Chip-level assembly is covered, instantiation of custom IP blocks: I/O pads, memories, PLLs, etc. The labs culminate with a project design – implementation of a 3-stage RISC-V processor with register file and caches.
+</span><br />
+</p>
+<div id="364" class="coursedetails" aria-expanded="false">
+<div class="course-section"><p class="course-heading"><strong>Objectives & Outcomes</strong></p><p class=""><strong>Course Objectives:</strong> This course is a one-time offering to supplement the CS150 course offered in the Fall 2014, with a lab and project section that cover the Application-Specific Integrated Circuit Design. The CS150 lectures in the Fall 2014 already covered the necessary lecture material, so students who took the CS150 lab in the Fall of 2014 will have a chance to expand their skills into the area of Application-Specific Integrated Circuit design.<br/>
+Hence the pre-requisite for this course is that a student has taken the CS150 course in the Fall 2014.<br/>
+</p></div>
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p class=""><strong>Prerequisites:</strong> Electrical Engineering 40; Electrical Engineering 105 recommended and Computer Science 150 (taken Fall 2014) - mandatory</p><p class=""><strong>Credit Restrictions:</strong> Students will receive no credit for Electrical Engineering 146L after taking Fall 2014 version of Electrical Engineering 141/241A.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p class=""><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of laboratory and 1 hour of discussion per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p class=""><strong>Subject/Course Level:</strong> Electrical Engineering/Undergraduate</p><p class=""><strong>Grading/Final exam status:</strong> Offered for pass/not pass grade only. Final exam not required. </p><p class=""><strong>Instructor:</strong> Stojanovic</p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=EL ENG 147" class="btn-course" role="button" aria-controls="470">
+<span class="code">EL&#160;ENG&#160;147</span> 
+<span class="title">Introduction to Microelectromechanical Systems (MEMS)</span> 
+<span class="hours">3 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow overflow">This course will teach fundamentals of micromachining and microfabrication techniques, including planar thin-film process technologies, photolithographic techniques, deposition and etching techniques, and the other technologies that are central to MEMS fabrication. It will pay special attention to teaching of fundamentals necessary for the design and analysis of devices and systems in mechanical, electrical, fluidic, and thermal energy/signal domains, and will teach basic techniques for multi-domain</span><span class="deschide"> analysis. Fundamentals of sensing and transduction mechanisms including capacitive and piezoresistive techniques, and design and analysis of micmicromachined miniature sensors and actuators using these techniques will be covered.
+</span><br />
+</p>
+<div id="470" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p class=""><strong>Prerequisites:</strong> Electrical Engineering 40 or 100 or consent of instructor</p><p class=""><strong>Credit Restrictions:</strong> Students will receive no credit for El Eng 147 after taking El Eng 247A.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p class=""><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture and 1 hour of discussion per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p class=""><strong>Subject/Course Level:</strong> Electrical Engineering/Undergraduate</p><p class=""><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p class=""><strong>Instructors:</strong> Maharbiz, Nguyen, Pister</p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=EL ENG C149" class="btn-course" role="button" aria-controls="761">
+<span class="code">EL&#160;ENG&#160;C149</span> 
+<span class="title">Introduction to Embedded Systems</span> 
+<span class="hours">4 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow">This course introduces students to the basics of models, analysis tools, and control for embedded systems operating in real time. Students learn how to combine physical processes with computation. Topics include models of computation, control, analysis and verification, interfacing with the physical world, mapping to platforms, and distributed embedded systems. The course has a strong laboratory component, with emphasis on a semester-long sequence of projects.
+</span><br />
+</p>
+<div id="761" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p class=""><strong>Prerequisites:</strong> 20N; Computer Science 61C; Computer Science 70 or Math 55</p><p class=""><strong>Credit Restrictions:</strong> Students will receive no credit for Electrical Engineering C149/Computer Science C149 after&lt;BR/&gt;taking Electrical Engineering C249M/Computer Science C249M. Students may remove a deficient grade in Electrical Engineering C149/Computer Science C149 after taking Electrical Engineering 124.&lt;BR/&gt;</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p class=""><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture and 3 hours of laboratory per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p class=""><strong>Subject/Course Level:</strong> Electrical Engineering/Undergraduate</p><p class=""><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p class=""><strong>Instructors:</strong> Lee, Seshia</p><p class=""><strong>Also listed as:</strong> COMPSCI&#160;C149</p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=EL ENG 192" class="btn-course" role="button" aria-controls="738">
+<span class="code">EL&#160;ENG&#160;192</span> 
+<span class="title">Mechatronic Design Laboratory</span> 
+<span class="hours">4 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow">Design project course, focusing on application of theoretical principles in electrical engineering to control of a small-scale system, such as a mobile robot. Small teams of students will design and construct a mechatronic system incorporating sensors, actuators, and intelligence.
+</span><br />
+</p>
+<div id="738" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p class=""><strong>Prerequisites:</strong> 120, Computer Science 61B or 61C, 150 or equivalent</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p class=""><strong>Fall and/or spring:</strong> 15 weeks - 1.5 hours of lecture and 10 hours of laboratory per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p class=""><strong>Subject/Course Level:</strong> Electrical Engineering/Undergraduate</p><p class=""><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p class=""><strong>Instructor:</strong> Fearing</p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=EL ENG 194" class="btn-course" role="button" aria-controls="183">
+<span class="code">EL&#160;ENG&#160;194</span> 
+<span class="title">Special Topics</span> 
+<span class="hours">1 - 4 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow">Topics will vary semester to semester. See the Electrical Engineering announcements.
+</span><br />
+</p>
+<div id="183" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p class=""><strong>Prerequisites:</strong> Consent of instructor</p><p class=""><strong>Repeat rules:</strong> Course may be repeated for credit as topic varies. Course may be repeated for credit when topic changes.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p class=""><strong>Fall and/or spring:</strong> 15 weeks - 1-4 hours of lecture per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p class=""><strong>Subject/Course Level:</strong> Electrical Engineering/Undergraduate</p><p class=""><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=EL ENG H196A" class="btn-course" role="button" aria-controls="176">
+<span class="code">EL&#160;ENG&#160;H196A</span> 
+<span class="title">Senior Honors Thesis Research</span> 
+<span class="hours">1 - 4 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow ">Thesis work under the supervision of a faculty member. A minimum of four units must be taken; the units may be distributed between one and two semesters in any way. To obtain credit a satisfactory thesis must be submitted at the end of the two semesters to the Electrical and Engineering and Computer Science Department archive. Students who complete four units and a thesis in one semester receive a letter grade at the end of H196A. Students who do not, receive an IP in H196A and must enroll in H196B.</span><span class="deschide">
+</span><br />
+</p>
+<div id="176" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p class=""><strong>Prerequisites:</strong> Open only to students in the Electrical Engineering and Computer Science honors program</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p class=""><strong>Fall and/or spring:</strong> 15 weeks - 1-4 hours of independent study per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p class=""><strong>Subject/Course Level:</strong> Electrical Engineering/Undergraduate</p><p class=""><strong>Grading/Final exam status:</strong> Letter grade. This is part one of a year long series course. A provisional grade of IP (in progress) will be applied and later replaced with the final grade after completing part two of the series. Final exam required. </p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=EL ENG H196B" class="btn-course" role="button" aria-controls="977">
+<span class="code">EL&#160;ENG&#160;H196B</span> 
+<span class="title">Senior Honors Thesis Research</span> 
+<span class="hours">1 - 4 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow ">Thesis work under the supervision of a faculty member. A minimum of four units must be taken; the units may be distributed between one and two semesters in any way. To obtain credit a satisfactory thesis must be submitted at the end of the two semesters to the Electrical and Engineering and Computer Science Department archive. Students who complete four units and a thesis in one semester receive a letter grade at the end of H196A. Students who do not, receive an IP in H196A and must enroll in H196B.</span><span class="deschide">
+</span><br />
+</p>
+<div id="977" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p class=""><strong>Prerequisites:</strong> Open only to students in the Electrical Engineering and Computer Science honors program</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p class=""><strong>Fall and/or spring:</strong> 15 weeks - 1-4 hours of independent study per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p class=""><strong>Subject/Course Level:</strong> Electrical Engineering/Undergraduate</p><p class=""><strong>Grading/Final exam status:</strong> Letter grade. This is part two of a year long series course. Upon completion, the final grade will be applied to both parts of the series. Final exam required. </p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=EL ENG 197" class="btn-course" role="button" aria-controls="485">
+<span class="code">EL&#160;ENG&#160;197</span> 
+<span class="title">Field Study</span> 
+<span class="hours">1 - 4 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow">Students take part in organized individual field sponsored programs with off-campus companies or tutoring/mentoring relevant to specific aspects and applications of computer science on or off campus. Note Summer CPT or OPT students: written report required. Course does not count toward major requirements, but will be counted in the cumulative units toward graduation.
+</span><br />
+</p>
+<div id="485" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p class=""><strong>Prerequisites:</strong> Consent of instructor (see department adviser)</p><p class=""><strong>Repeat rules:</strong> Course may be repeated for credit. Course may be repeated for credit when topic changes.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p class=""><strong>Fall and/or spring:</strong> 15 weeks - 1-4 hours of fieldwork per week</p><p class=""><strong>Summer:</strong> <br /><span style="width: 15px; display: inline-block;"></span>6 weeks - 2.5-10 hours of fieldwork per week<br /><span style="width: 15px; display: inline-block;"></span>8 weeks - 2-7.5 hours of fieldwork per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p class=""><strong>Subject/Course Level:</strong> Electrical Engineering/Undergraduate</p><p class=""><strong>Grading/Final exam status:</strong> Offered for pass/not pass grade only. Final exam not required. </p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=EL ENG 198" class="btn-course" role="button" aria-controls="244">
+<span class="code">EL&#160;ENG&#160;198</span> 
+<span class="title">Directed Group Study for Advanced Undergraduates</span> 
+<span class="hours">1 - 4 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow">Group study of selected topics in electrical engineering, usually relating to new developments.
+</span><br />
+</p>
+<div id="244" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p class=""><strong>Prerequisites:</strong> 2.0 GPA or better; 60 units completed</p><p class=""><strong>Repeat rules:</strong> Course may be repeated for credit. Course may be repeated for credit when topic changes.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p class=""><strong>Fall and/or spring:</strong> 15 weeks - 1-4 hours of directed group study per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p class=""><strong>Subject/Course Level:</strong> Electrical Engineering/Undergraduate</p><p class=""><strong>Grading/Final exam status:</strong> Offered for pass/not pass grade only. Final exam not required. </p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=EL ENG 199" class="btn-course" role="button" aria-controls="610">
+<span class="code">EL&#160;ENG&#160;199</span> 
+<span class="title">Supervised Independent Study</span> 
+<span class="hours">1 - 4 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow">Supervised independent study. Enrollment restrictions apply.
+</span><br />
+</p>
+<div id="610" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p class=""><strong>Prerequisites:</strong> Consent of instructor and major adviser</p><p class=""><strong>Credit Restrictions:</strong> Enrollment is restricted; see the Introduction to Courses and Curricula section of this catalog.</p><p class=""><strong>Repeat rules:</strong>  Course may be repeated for credit when topic changes.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p class=""><strong>Fall and/or spring:</strong> 15 weeks - 0 hours of independent study per week</p><p class=""><strong>Summer:</strong> <br /><span style="width: 15px; display: inline-block;"></span>6 weeks - 1-5 hours of independent study per week<br /><span style="width: 15px; display: inline-block;"></span>8 weeks - 1-4 hours of independent study per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p class=""><strong>Subject/Course Level:</strong> Electrical Engineering/Undergraduate</p><p class=""><strong>Grading/Final exam status:</strong> Offered for pass/not pass grade only. Final exam not required. </p></div>
+</div>
+</div>
+</div></div>
+]]>
+</coursestext>
+<faculty>
+<![CDATA[
+]]>
+</faculty>
+</courseleaf>
+
